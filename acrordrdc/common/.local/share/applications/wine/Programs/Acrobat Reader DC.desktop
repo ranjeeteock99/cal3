@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Acrobat Reader DC
+Exec=env WINEPREFIX="/home/ranjeet/snap/acrordrdc/common/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/ranjeet/snap/acrordrdc/common/.wine/dosdevices/c:/users/ranjeet/Start\\ Menu/Programs/Acrobat\\ Reader\\ DC.lnk
+Type=Application
+StartupNotify=true
+Icon=CD89_SC_Reader.0
+StartupWMClass=acrord32.exe

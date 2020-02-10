@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Adobe Acrobat Reader DC 
+MimeType=application/vnd.adobe.xdp+xml;
+Exec=env WINEPREFIX="/home/ranjeet/snap/acrordrdc/common/.wine" wine start /ProgIDOpen AcroExch.XDPDoc %f
+NoDisplay=true
+StartupNotify=true
+Icon=A172_AcroRd32.0

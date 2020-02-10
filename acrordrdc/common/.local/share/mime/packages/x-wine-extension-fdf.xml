@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/vnd.fdf">
+    <glob pattern="*.fdf"/>
+    <comment>Adobe Acrobat Forms Document</comment>
+  </mime-type>
+</mime-info>

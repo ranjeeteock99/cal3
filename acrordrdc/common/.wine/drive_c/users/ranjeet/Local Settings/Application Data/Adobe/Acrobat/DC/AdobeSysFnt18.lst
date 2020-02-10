@@ -1,0 +1,4339 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSans
+FamilyName:Liberation Sans
+StyleName:Regular
+MenuName:Liberation Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Liberation Sans
+WritingScript:Roman
+WinName:Liberation Sans
+FileLength:139764
+NameArray:0,Win,1,Liberation Sans
+NameArray:0,Mac,4,Liberation Sans
+NameArray:0,Win,1,Liberation Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSans-Bold
+FamilyName:Liberation Sans
+StyleName:Bold
+MenuName:Liberation Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Liberation Sans Bold
+WritingScript:Roman
+WinName:Liberation Sans Bold
+FileLength:137372
+NameArray:0,Win,1,Liberation Sans
+NameArray:0,Mac,4,Liberation Sans Bold
+NameArray:0,Win,1,Liberation Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSans-Italic
+FamilyName:Liberation Sans
+StyleName:Italic
+MenuName:Liberation Sans
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Liberation Sans Italic
+WritingScript:Roman
+WinName:Liberation Sans Italic
+FileLength:164264
+NameArray:0,Win,1,Liberation Sans
+NameArray:0,Mac,4,Liberation Sans Italic
+NameArray:0,Win,1,Liberation Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSans-BoldItalic
+FamilyName:Liberation Sans
+StyleName:Bold Italic
+MenuName:Liberation Sans
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Liberation Sans Bold Italic
+WritingScript:Roman
+WinName:Liberation Sans Bold Italic
+FileLength:137420
+NameArray:0,Win,1,Liberation Sans
+NameArray:0,Mac,4,Liberation Sans Bold Italic
+NameArray:0,Win,1,Liberation Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationMono
+FamilyName:Liberation Mono
+StyleName:Regular
+MenuName:Liberation Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Liberation Mono
+WritingScript:Roman
+WinName:Liberation Mono
+FileLength:108492
+NameArray:0,Win,1,Liberation Mono
+NameArray:0,Mac,4,Liberation Mono
+NameArray:0,Win,1,Liberation Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationMono-Bold
+FamilyName:Liberation Mono
+StyleName:Bold
+MenuName:Liberation Mono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Liberation Mono Bold
+WritingScript:Roman
+WinName:Liberation Mono Bold
+FileLength:105848
+NameArray:0,Win,1,Liberation Mono
+NameArray:0,Mac,4,Liberation Mono Bold
+NameArray:0,Win,1,Liberation Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationMono-Italic
+FamilyName:Liberation Mono
+StyleName:Italic
+MenuName:Liberation Mono
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Liberation Mono Italic
+WritingScript:Roman
+WinName:Liberation Mono Italic
+FileLength:124720
+NameArray:0,Win,1,Liberation Mono
+NameArray:0,Mac,4,Liberation Mono Italic
+NameArray:0,Win,1,Liberation Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationMono-BoldItalic
+FamilyName:Liberation Mono
+StyleName:Bold Italic
+MenuName:Liberation Mono
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Liberation Mono Bold Italic
+WritingScript:Roman
+WinName:Liberation Mono Bold Italic
+FileLength:119064
+NameArray:0,Win,1,Liberation Mono
+NameArray:0,Mac,4,Liberation Mono Bold Italic
+NameArray:0,Win,1,Liberation Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSerif
+FamilyName:Liberation Serif
+StyleName:Regular
+MenuName:Liberation Serif
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Liberation Serif
+WritingScript:Roman
+WinName:Liberation Serif
+FileLength:152408
+NameArray:0,Win,1,Liberation Serif
+NameArray:0,Mac,4,Liberation Serif
+NameArray:0,Win,1,Liberation Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSerif-Bold
+FamilyName:Liberation Serif
+StyleName:Bold
+MenuName:Liberation Serif
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Liberation Serif Bold
+WritingScript:Roman
+WinName:Liberation Serif Bold
+FileLength:147132
+NameArray:0,Win,1,Liberation Serif
+NameArray:0,Mac,4,Liberation Serif Bold
+NameArray:0,Win,1,Liberation Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSerif-Italic
+FamilyName:Liberation Serif
+StyleName:Italic
+MenuName:Liberation Serif
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Liberation Serif Italic
+WritingScript:Roman
+WinName:Liberation Serif Italic
+FileLength:145028
+NameArray:0,Win,1,Liberation Serif
+NameArray:0,Mac,4,Liberation Serif Italic
+NameArray:0,Win,1,Liberation Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSerif-BoldItalic
+FamilyName:Liberation Serif
+StyleName:Bold Italic
+MenuName:Liberation Serif
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Liberation Serif Bold Italic
+WritingScript:Roman
+WinName:Liberation Serif Bold Italic
+FileLength:152660
+NameArray:0,Win,1,Liberation Serif
+NameArray:0,Mac,4,Liberation Serif Bold Italic
+NameArray:0,Win,1,Liberation Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:AbyssinicaSIL
+FamilyName:Abyssinica SIL
+StyleName:Regular
+MenuName:Abyssinica SIL
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Abyssinica SIL
+WritingScript:Roman
+WinName:Abyssinica SIL
+FileLength:602664
+NameArray:0,Win,1,Abyssinica SIL
+NameArray:0,Mac,18,Abyssinica SIL
+NameArray:0,Mac,4,Abyssinica SIL
+NameArray:0,Win,1,Abyssinica SIL
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSans
+FamilyName:DejaVu Sans
+StyleName:Book
+MenuName:DejaVu Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:DejaVu Sans
+WritingScript:Roman
+WinName:DejaVu Sans
+FileLength:757076
+NameArray:0,Win,1,DejaVu Sans
+NameArray:0,Mac,4,DejaVu Sans
+NameArray:0,Win,1,DejaVu Sans
+NameArray:0,Win,16,DejaVu Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSans-Bold
+FamilyName:DejaVu Sans
+StyleName:Bold
+MenuName:DejaVu Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:DejaVu Sans Bold
+WritingScript:Roman
+WinName:DejaVu Sans Bold
+FileLength:705684
+NameArray:0,Win,1,DejaVu Sans
+NameArray:0,Mac,4,DejaVu Sans Bold
+NameArray:0,Win,1,DejaVu Sans
+NameArray:0,Win,16,DejaVu Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSans-Oblique
+FamilyName:DejaVu Sans
+StyleName:Oblique
+MenuName:DejaVu Sans
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:DejaVu Sans Oblique
+WritingScript:Roman
+WinName:DejaVu Sans Oblique
+FileLength:633840
+NameArray:0,Win,1,DejaVu Sans
+NameArray:0,Mac,4,DejaVu Sans Oblique
+NameArray:0,Win,1,DejaVu Sans
+NameArray:0,Win,16,DejaVu Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSans-BoldOblique
+FamilyName:DejaVu Sans
+StyleName:Bold Oblique
+MenuName:DejaVu Sans
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:DejaVu Sans Bold Oblique
+WritingScript:Roman
+WinName:DejaVu Sans Bold Oblique
+FileLength:641720
+NameArray:0,Win,1,DejaVu Sans
+NameArray:0,Mac,4,DejaVu Sans Bold Oblique
+NameArray:0,Win,1,DejaVu Sans
+NameArray:0,Win,16,DejaVu Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSansCondensed
+FamilyName:DejaVu Sans
+StyleName:Condensed
+MenuName:DejaVu Sans Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:4
+AngleClass:0
+FullName:DejaVu Sans Condensed
+WritingScript:Roman
+WinName:DejaVu Sans Condensed
+FileLength:679256
+NameArray:0,Win,1,DejaVu Sans Condensed
+NameArray:0,Mac,4,DejaVu Sans Condensed
+NameArray:0,Win,1,DejaVu Sans Condensed
+NameArray:0,Win,16,DejaVu Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSansCondensed-Bold
+FamilyName:DejaVu Sans
+StyleName:Condensed Bold
+MenuName:DejaVu Sans Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:4
+AngleClass:0
+FullName:DejaVu Sans Condensed Bold
+WritingScript:Roman
+WinName:DejaVu Sans Condensed Bold
+FileLength:663468
+NameArray:0,Win,1,DejaVu Sans Condensed
+NameArray:0,Mac,4,DejaVu Sans Condensed Bold
+NameArray:0,Win,1,DejaVu Sans Condensed
+NameArray:0,Win,16,DejaVu Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSansCondensed-Oblique
+FamilyName:DejaVu Sans
+StyleName:Condensed Oblique
+MenuName:DejaVu Sans Condensed
+StyleBits:1
+WeightClass:400
+WidthClass:4
+AngleClass:1
+FullName:DejaVu Sans Condensed Oblique
+WritingScript:Roman
+WinName:DejaVu Sans Condensed Oblique
+FileLength:597716
+NameArray:0,Win,1,DejaVu Sans Condensed
+NameArray:0,Mac,4,DejaVu Sans Condensed Oblique
+NameArray:0,Win,1,DejaVu Sans Condensed
+NameArray:0,Win,16,DejaVu Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSansCondensed-BoldOblique
+FamilyName:DejaVu Sans
+StyleName:Condensed Bold Oblique
+MenuName:DejaVu Sans Condensed
+StyleBits:3
+WeightClass:700
+WidthClass:4
+AngleClass:1
+FullName:DejaVu Sans Condensed Bold Oblique
+WritingScript:Roman
+WinName:DejaVu Sans Condensed Bold Oblique
+FileLength:610264
+NameArray:0,Win,1,DejaVu Sans Condensed
+NameArray:0,Mac,4,DejaVu Sans Condensed Bold Oblique
+NameArray:0,Win,1,DejaVu Sans Condensed
+NameArray:0,Win,16,DejaVu Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSans-ExtraLight
+FamilyName:DejaVu Sans
+StyleName:ExtraLight
+MenuName:DejaVu Sans Light
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:DejaVu Sans ExtraLight
+WritingScript:Roman
+WinName:DejaVu Sans ExtraLight
+FileLength:355204
+NameArray:0,Win,1,DejaVu Sans Light
+NameArray:0,Mac,4,DejaVu Sans ExtraLight
+NameArray:0,Win,1,DejaVu Sans Light
+NameArray:0,Win,16,DejaVu Sans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSansMono
+FamilyName:DejaVu Sans Mono
+StyleName:Book
+MenuName:DejaVu Sans Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:DejaVu Sans Mono
+WritingScript:Roman
+WinName:DejaVu Sans Mono
+FileLength:340712
+NameArray:0,Win,1,DejaVu Sans Mono
+NameArray:0,Mac,4,DejaVu Sans Mono
+NameArray:0,Win,1,DejaVu Sans Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSansMono-Bold
+FamilyName:DejaVu Sans Mono
+StyleName:Bold
+MenuName:DejaVu Sans Mono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:DejaVu Sans Mono Bold
+WritingScript:Roman
+WinName:DejaVu Sans Mono Bold
+FileLength:331992
+NameArray:0,Win,1,DejaVu Sans Mono
+NameArray:0,Mac,4,DejaVu Sans Mono Bold
+NameArray:0,Win,1,DejaVu Sans Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSansMono-Oblique
+FamilyName:DejaVu Sans Mono
+StyleName:Oblique
+MenuName:DejaVu Sans Mono
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:DejaVu Sans Mono Oblique
+WritingScript:Roman
+WinName:DejaVu Sans Mono Oblique
+FileLength:251472
+NameArray:0,Win,1,DejaVu Sans Mono
+NameArray:0,Mac,4,DejaVu Sans Mono Oblique
+NameArray:0,Win,1,DejaVu Sans Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSansMono-BoldOblique
+FamilyName:DejaVu Sans Mono
+StyleName:Bold Oblique
+MenuName:DejaVu Sans Mono
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:DejaVu Sans Mono Bold Oblique
+WritingScript:Roman
+WinName:DejaVu Sans Mono Bold Oblique
+FileLength:253116
+NameArray:0,Win,1,DejaVu Sans Mono
+NameArray:0,Mac,4,DejaVu Sans Mono Bold Oblique
+NameArray:0,Win,1,DejaVu Sans Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSerif
+FamilyName:DejaVu Serif
+StyleName:Book
+MenuName:DejaVu Serif
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:DejaVu Serif
+WritingScript:Roman
+WinName:DejaVu Serif
+FileLength:380132
+NameArray:0,Win,1,DejaVu Serif
+NameArray:0,Mac,4,DejaVu Serif
+NameArray:0,Win,1,DejaVu Serif
+NameArray:0,Win,16,DejaVu Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSerif-Bold
+FamilyName:DejaVu Serif
+StyleName:Bold
+MenuName:DejaVu Serif
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:DejaVu Serif Bold
+WritingScript:Roman
+WinName:DejaVu Serif Bold
+FileLength:356088
+NameArray:0,Win,1,DejaVu Serif
+NameArray:0,Mac,4,DejaVu Serif Bold
+NameArray:0,Win,1,DejaVu Serif
+NameArray:0,Win,16,DejaVu Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSerif-Italic
+FamilyName:DejaVu Serif
+StyleName:Italic
+MenuName:DejaVu Serif
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:DejaVu Serif Italic
+WritingScript:Roman
+WinName:DejaVu Serif Italic
+FileLength:345612
+NameArray:0,Win,1,DejaVu Serif
+NameArray:0,Mac,4,DejaVu Serif Italic
+NameArray:0,Win,1,DejaVu Serif
+NameArray:0,Win,16,DejaVu Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSerif-BoldItalic
+FamilyName:DejaVu Serif
+StyleName:Bold Italic
+MenuName:DejaVu Serif
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:DejaVu Serif Bold Italic
+WritingScript:Roman
+WinName:DejaVu Serif Bold Italic
+FileLength:347064
+NameArray:0,Win,1,DejaVu Serif
+NameArray:0,Mac,4,DejaVu Serif Bold Italic
+NameArray:0,Win,1,DejaVu Serif
+NameArray:0,Win,16,DejaVu Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSerifCondensed
+FamilyName:DejaVu Serif
+StyleName:Condensed
+MenuName:DejaVu Serif Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:4
+AngleClass:0
+FullName:DejaVu Serif Condensed
+WritingScript:Roman
+WinName:DejaVu Serif Condensed
+FileLength:346272
+NameArray:0,Win,1,DejaVu Serif Condensed
+NameArray:0,Mac,4,DejaVu Serif Condensed
+NameArray:0,Win,1,DejaVu Serif Condensed
+NameArray:0,Win,16,DejaVu Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSerifCondensed-Bold
+FamilyName:DejaVu Serif
+StyleName:Condensed Bold
+MenuName:DejaVu Serif Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:4
+AngleClass:0
+FullName:DejaVu Serif Condensed Bold
+WritingScript:Roman
+WinName:DejaVu Serif Condensed Bold
+FileLength:330852
+NameArray:0,Win,1,DejaVu Serif Condensed
+NameArray:0,Mac,4,DejaVu Serif Condensed Bold
+NameArray:0,Win,1,DejaVu Serif Condensed
+NameArray:0,Win,16,DejaVu Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSerifCondensed-Italic
+FamilyName:DejaVu Serif
+StyleName:Condensed Italic
+MenuName:DejaVu Serif Condensed
+StyleBits:1
+WeightClass:400
+WidthClass:4
+AngleClass:1
+FullName:DejaVu Serif Condensed Italic
+WritingScript:Roman
+WinName:DejaVu Serif Condensed Italic
+FileLength:344940
+NameArray:0,Win,1,DejaVu Serif Condensed
+NameArray:0,Mac,4,DejaVu Serif Condensed Italic
+NameArray:0,Win,1,DejaVu Serif Condensed
+NameArray:0,Win,16,DejaVu Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:DejaVuSerifCondensed-BoldItalic
+FamilyName:DejaVu Serif
+StyleName:Condensed Bold Italic
+MenuName:DejaVu Serif Condensed
+StyleBits:3
+WeightClass:700
+WidthClass:4
+AngleClass:1
+FullName:DejaVu Serif Condensed Bold Italic
+WritingScript:Roman
+WinName:DejaVu Serif Condensed Bold Italic
+FileLength:346112
+NameArray:0,Win,1,DejaVu Serif Condensed
+NameArray:0,Mac,4,DejaVu Serif Condensed Bold Italic
+NameArray:0,Win,1,DejaVu Serif Condensed
+NameArray:0,Win,16,DejaVu Serif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeMono
+FamilyName:FreeMono
+StyleName:Regular
+MenuName:FreeMono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FreeMono
+WritingScript:Roman
+WinName:FreeMono
+FileLength:592632
+NameArray:0,Win,1,FreeMono
+NameArray:0,Mac,4,FreeMono
+NameArray:0,Win,1,FreeMono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeMonoBold
+FamilyName:FreeMono
+StyleName:Bold
+MenuName:FreeMono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:FreeMono Bold
+WritingScript:Roman
+WinName:FreeMono Bold
+FileLength:299136
+NameArray:0,Win,1,FreeMono
+NameArray:0,Mac,4,FreeMono Bold
+NameArray:0,Win,1,FreeMono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeMonoOblique
+FamilyName:FreeMono
+StyleName:Oblique
+MenuName:FreeMono
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:FreeMono Oblique
+WritingScript:Roman
+WinName:FreeMono Oblique
+FileLength:395188
+NameArray:0,Win,1,FreeMono
+NameArray:0,Mac,4,FreeMono Oblique
+NameArray:0,Win,1,FreeMono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeMonoBoldOblique
+FamilyName:FreeMono
+StyleName:Bold Oblique
+MenuName:FreeMono
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:FreeMono Bold Oblique
+WritingScript:Roman
+WinName:FreeMono Bold Oblique
+FileLength:298940
+NameArray:0,Win,1,FreeMono
+NameArray:0,Mac,4,FreeMono Bold Oblique
+NameArray:0,Win,1,FreeMono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeSans
+FamilyName:FreeSans
+StyleName:Regular
+MenuName:FreeSans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FreeSans
+WritingScript:Roman
+WinName:FreeSans
+FileLength:1563256
+NameArray:0,Win,1,FreeSans
+NameArray:0,Mac,4,FreeSans
+NameArray:0,Win,1,FreeSans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeSansBold
+FamilyName:FreeSans
+StyleName:Bold
+MenuName:FreeSans
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:FreeSans Bold
+WritingScript:Roman
+WinName:FreeSans Bold
+FileLength:416128
+NameArray:0,Win,1,FreeSans
+NameArray:0,Mac,4,FreeSans Bold
+NameArray:0,Win,1,FreeSans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeSansOblique
+FamilyName:FreeSans
+StyleName:Oblique
+MenuName:FreeSans
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:FreeSans Oblique
+WritingScript:Roman
+WinName:FreeSans Oblique
+FileLength:763676
+NameArray:0,Win,1,FreeSans
+NameArray:0,Mac,4,FreeSans Oblique
+NameArray:0,Win,1,FreeSans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeSansBoldOblique
+FamilyName:FreeSans
+StyleName:Bold Oblique
+MenuName:FreeSans
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:FreeSans Bold Oblique
+WritingScript:Roman
+WinName:FreeSans Bold Oblique
+FileLength:342492
+NameArray:0,Win,1,FreeSans
+NameArray:0,Mac,4,FreeSans Bold Oblique
+NameArray:0,Win,1,FreeSans
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeSerif
+FamilyName:FreeSerif
+StyleName:Regular
+MenuName:FreeSerif
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FreeSerif
+WritingScript:Roman
+WinName:FreeSerif
+FileLength:3303588
+NameArray:0,Win,1,FreeSerif
+NameArray:0,Mac,4,FreeSerif
+NameArray:0,Win,1,FreeSerif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeSerifBold
+FamilyName:FreeSerif
+StyleName:Bold
+MenuName:FreeSerif
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:FreeSerif Bold
+WritingScript:Roman
+WinName:FreeSerif Bold
+FileLength:1310828
+NameArray:0,Win,1,FreeSerif
+NameArray:0,Mac,4,FreeSerif Bold
+NameArray:0,Win,1,FreeSerif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeSerifItalic
+FamilyName:FreeSerif
+StyleName:Italic
+MenuName:FreeSerif
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:FreeSerif Italic
+WritingScript:Roman
+WinName:FreeSerif Italic
+FileLength:922104
+NameArray:0,Win,1,FreeSerif
+NameArray:0,Mac,4,FreeSerif Italic
+NameArray:0,Win,1,FreeSerif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:FreeSerifBoldItalic
+FamilyName:FreeSerif
+StyleName:Bold Italic
+MenuName:FreeSerif
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:FreeSerif Bold Italic
+WritingScript:Roman
+WinName:FreeSerif Bold Italic
+FileLength:608676
+NameArray:0,Win,1,FreeSerif
+NameArray:0,Mac,4,FreeSerif Bold Italic
+NameArray:0,Win,1,FreeSerif
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Garuda
+FamilyName:Garuda
+StyleName:Regular
+MenuName:Garuda
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Garuda
+FamilyNameNative:Garuda
+StyleNameNative:Regular
+FullNameNative:Garuda Regular
+WritingScript:Thai
+WinName:Garuda
+FileLength:79332
+NameArray:21,Win,1,Garuda
+NameArray:0,Mac,4,Garuda
+NameArray:0,Win,1,Garuda
+NameArray:0,Win,16,Garuda
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Garuda-Bold
+FamilyName:Garuda
+StyleName:Bold
+MenuName:Garuda
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Garuda Bold
+FamilyNameNative:Garuda
+StyleNameNative:Bold
+FullNameNative:Garuda Bold
+WritingScript:Thai
+WinName:Garuda Bold
+FileLength:80232
+NameArray:21,Win,1,Garuda
+NameArray:0,Mac,4,Garuda Bold
+NameArray:0,Win,1,Garuda
+NameArray:0,Win,16,Garuda
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Garuda-Oblique
+FamilyName:Garuda
+StyleName:Oblique
+MenuName:Garuda
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Garuda Oblique
+FamilyNameNative:Garuda
+StyleNameNative:Oblique
+FullNameNative:Garuda Oblique
+WritingScript:Thai
+WinName:Garuda Oblique
+FileLength:92952
+NameArray:21,Win,1,Garuda
+NameArray:0,Mac,4,Garuda Oblique
+NameArray:0,Win,1,Garuda
+NameArray:0,Win,16,Garuda
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Garuda-BoldOblique
+FamilyName:Garuda
+StyleName:Bold Oblique
+MenuName:Garuda
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Garuda Bold Oblique
+FamilyNameNative:Garuda
+StyleNameNative:Bold Oblique
+FullNameNative:Garuda Bold Oblique
+WritingScript:Thai
+WinName:Garuda Bold Oblique
+FileLength:92252
+NameArray:21,Win,1,Garuda
+NameArray:0,Mac,4,Garuda Bold Oblique
+NameArray:0,Win,1,Garuda
+NameArray:0,Win,16,Garuda
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstArt
+FamilyName:KacstArt
+StyleName:Medium
+MenuName:KacstArt
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstArt
+FamilyNameNative:KacstArt
+StyleNameNative:Medium
+FullNameNative:KacstArt Medium
+WritingScript:Arabic
+WinName:KacstArt
+FileLength:51028
+NameArray:4,Win,1,KacstArt
+NameArray:0,Mac,4,KacstArt
+NameArray:0,Win,1,KacstArt
+NameArray:0,Win,16,KacstArt
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstBook
+FamilyName:KacstBook
+StyleName:Medium
+MenuName:KacstBook
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstBook
+FamilyNameNative:KacstBook
+StyleNameNative:Medium
+FullNameNative:KacstBook Medium
+WritingScript:Arabic
+WinName:KacstBook
+FileLength:63100
+NameArray:4,Win,1,KacstBook
+NameArray:0,Mac,4,KacstBook
+NameArray:0,Win,1,KacstBook
+NameArray:0,Win,16,KacstBook
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstDecorative
+FamilyName:KacstDecorative
+StyleName:Medium
+MenuName:KacstDecorative
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstDecorative
+FamilyNameNative:KacstDecorative
+StyleNameNative:Medium
+FullNameNative:KacstDecorative Medium
+WritingScript:Arabic
+WinName:KacstDecorative
+FileLength:46308
+NameArray:4,Win,1,KacstDecorative
+NameArray:0,Mac,4,KacstDecorative
+NameArray:0,Win,1,KacstDecorative
+NameArray:0,Win,16,KacstDecorative
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstDigital
+FamilyName:KacstDigital
+StyleName:Medium
+MenuName:KacstDigital
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstDigital
+FamilyNameNative:KacstDigital
+StyleNameNative:Medium
+FullNameNative:KacstDigital Medium
+WritingScript:Arabic
+WinName:KacstDigital
+FileLength:40800
+NameArray:4,Win,1,KacstDigital
+NameArray:0,Mac,4,KacstDigital
+NameArray:0,Win,1,KacstDigital
+NameArray:0,Win,16,KacstDigital
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstFarsi
+FamilyName:KacstFarsi
+StyleName:Medium
+MenuName:KacstFarsi
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstFarsi
+FamilyNameNative:KacstFarsi
+StyleNameNative:Medium
+FullNameNative:KacstFarsi Medium
+WritingScript:Arabic
+WinName:KacstFarsi
+FileLength:57848
+NameArray:4,Win,1,KacstFarsi
+NameArray:0,Mac,4,KacstFarsi
+NameArray:0,Win,1,KacstFarsi
+NameArray:0,Win,16,KacstFarsi
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstLetter
+FamilyName:KacstLetter
+StyleName:Medium
+MenuName:KacstLetter
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstLetter
+FamilyNameNative:KacstLetter
+StyleNameNative:Medium
+FullNameNative:KacstLetter Medium
+WritingScript:Arabic
+WinName:KacstLetter
+FileLength:57240
+NameArray:4,Win,1,KacstLetter
+NameArray:0,Mac,4,KacstLetter
+NameArray:0,Win,1,KacstLetter
+NameArray:0,Win,16,KacstLetter
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstNaskh
+FamilyName:KacstNaskh
+StyleName:Medium
+MenuName:KacstNaskh
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstNaskh
+FamilyNameNative:KacstNaskh
+StyleNameNative:Medium
+FullNameNative:KacstNaskh Medium
+WritingScript:Arabic
+WinName:KacstNaskh
+FileLength:66260
+NameArray:4,Win,1,KacstNaskh
+NameArray:0,Mac,4,KacstNaskh
+NameArray:0,Win,1,KacstNaskh
+NameArray:0,Win,16,KacstNaskh
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstOffice
+FamilyName:KacstOffice
+StyleName:Medium
+MenuName:KacstOffice
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstOffice
+FamilyNameNative:KacstOffice
+StyleNameNative:Medium
+FullNameNative:KacstOffice Medium
+WritingScript:Arabic
+WinName:KacstOffice
+FileLength:73680
+NameArray:4,Win,1,KacstOffice
+NameArray:0,Mac,4,KacstOffice
+NameArray:0,Win,1,KacstOffice
+NameArray:0,Win,16,KacstOffice
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstOne
+FamilyName:KacstOne
+StyleName:Regular
+MenuName:KacstOne
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:KacstOne
+FamilyNameNative:KacstOne
+StyleNameNative:Regular
+FullNameNative:KacstOne Regular
+WritingScript:Arabic
+WinName:KacstOne
+FileLength:51252
+NameArray:4,Win,1,KacstOne
+NameArray:0,Mac,4,KacstOne
+NameArray:0,Win,1,KacstOne
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstOne-Bold
+FamilyName:KacstOne
+StyleName:Bold
+MenuName:KacstOne
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:KacstOne Bold
+FamilyNameNative:KacstOne
+StyleNameNative:Bold
+FullNameNative:KacstOne Bold
+WritingScript:Arabic
+WinName:KacstOne Bold
+FileLength:52088
+NameArray:4,Win,1,KacstOne
+NameArray:0,Mac,4,KacstOne Bold
+NameArray:0,Win,1,KacstOne
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstPen
+FamilyName:KacstPen
+StyleName:Medium
+MenuName:KacstPen
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstPen
+FamilyNameNative:KacstPen
+StyleNameNative:Medium
+FullNameNative:KacstPen Medium
+WritingScript:Arabic
+WinName:KacstPen
+FileLength:54528
+NameArray:4,Win,1,KacstPen
+NameArray:0,Mac,4,KacstPen
+NameArray:0,Win,1,KacstPen
+NameArray:0,Win,16,KacstPen
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstPoster
+FamilyName:KacstPoster
+StyleName:Medium
+MenuName:KacstPoster
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstPoster
+FamilyNameNative:KacstPoster
+StyleNameNative:Medium
+FullNameNative:KacstPoster Medium
+WritingScript:Arabic
+WinName:KacstPoster
+FileLength:43988
+NameArray:4,Win,1,KacstPoster
+NameArray:0,Mac,4,KacstPoster
+NameArray:0,Win,1,KacstPoster
+NameArray:0,Win,16,KacstPoster
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstQurn
+FamilyName:KacstQurn
+StyleName:Medium
+MenuName:KacstQurn
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:KacstQurn
+FamilyNameNative:KacstQurn
+StyleNameNative:Medium
+FullNameNative:KacstQurn Medium
+WritingScript:Arabic
+WinName:KacstQurn
+FileLength:72240
+NameArray:4,Win,1,KacstQurn
+NameArray:0,Mac,4,KacstQurn
+NameArray:0,Win,1,KacstQurn
+NameArray:0,Win,16,KacstQurn
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstScreen
+FamilyName:KacstScreen
+StyleName:Medium
+MenuName:KacstScreen
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstScreen
+FamilyNameNative:KacstScreen
+StyleNameNative:Medium
+FullNameNative:KacstScreen Medium
+WritingScript:Arabic
+WinName:KacstScreen
+FileLength:42992
+NameArray:4,Win,1,KacstScreen
+NameArray:0,Mac,4,KacstScreen
+NameArray:0,Win,1,KacstScreen
+NameArray:0,Win,16,KacstScreen
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstTitle
+FamilyName:KacstTitle
+StyleName:Medium
+MenuName:KacstTitle
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:KacstTitle
+FamilyNameNative:KacstTitle
+StyleNameNative:Medium
+FullNameNative:KacstTitle Medium
+WritingScript:Arabic
+WinName:KacstTitle
+FileLength:68476
+NameArray:4,Win,1,KacstTitle
+NameArray:0,Mac,4,KacstTitle
+NameArray:0,Win,1,KacstTitle
+NameArray:0,Win,16,KacstTitle
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KacstTitleL
+FamilyName:KacstTitleL
+StyleName:Medium
+MenuName:KacstTitleL
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:KacstTitleL
+FamilyNameNative:KacstTitleL
+StyleNameNative:Medium
+FullNameNative:KacstTitleL Medium
+WritingScript:Arabic
+WinName:KacstTitleL
+FileLength:120956
+NameArray:4,Win,1,KacstTitleL
+NameArray:0,Mac,4,KacstTitleL
+NameArray:0,Win,1,KacstTitleL
+NameArray:0,Win,16,KacstTitleL
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KhmerOS
+FamilyName:Khmer OS
+StyleName:Regular
+MenuName:Khmer OS
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Khmer OS
+WritingScript:Roman
+WinName:Khmer OS
+FileLength:265552
+NameArray:0,Win,1,Khmer OS
+NameArray:0,Mac,18,Khmer OS
+NameArray:0,Mac,4,Khmer OS
+NameArray:0,Win,1,Khmer OS
+NameArray:0,Win,16,Khmer OS
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:KhmerOSsys
+FamilyName:Khmer OS System
+StyleName:Regular
+MenuName:Khmer OS System
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Khmer OS System
+WritingScript:Roman
+WinName:Khmer OS System
+FileLength:265624
+NameArray:0,Win,1,Khmer OS System
+NameArray:0,Mac,18,Khmer OS System
+NameArray:0,Mac,4,Khmer OS System
+NameArray:0,Win,1,Khmer OS System
+NameArray:0,Win,16,Khmer OS System
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Kinnari
+FamilyName:Kinnari
+StyleName:Regular
+MenuName:Kinnari
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Kinnari
+FamilyNameNative:Kinnari
+StyleNameNative:Regular
+FullNameNative:Kinnari Regular
+WritingScript:Thai
+WinName:Kinnari
+FileLength:91052
+NameArray:21,Win,1,Kinnari
+NameArray:0,Mac,4,Kinnari
+NameArray:0,Win,1,Kinnari
+NameArray:0,Win,16,Kinnari
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Kinnari-Bold
+FamilyName:Kinnari
+StyleName:Bold
+MenuName:Kinnari
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Kinnari Bold
+FamilyNameNative:Kinnari
+StyleNameNative:Bold
+FullNameNative:Kinnari Bold
+WritingScript:Thai
+WinName:Kinnari Bold
+FileLength:90772
+NameArray:21,Win,1,Kinnari
+NameArray:0,Mac,4,Kinnari Bold
+NameArray:0,Win,1,Kinnari
+NameArray:0,Win,16,Kinnari
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Kinnari-Italic
+FamilyName:Kinnari
+StyleName:Italic
+MenuName:Kinnari
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Kinnari Italic
+FamilyNameNative:Kinnari
+StyleNameNative:Italic
+FullNameNative:Kinnari Italic
+WritingScript:Thai
+WinName:Kinnari Italic
+FileLength:104516
+NameArray:21,Win,1,Kinnari
+NameArray:0,Mac,4,Kinnari Italic
+NameArray:0,Win,1,Kinnari
+NameArray:0,Win,16,Kinnari
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Kinnari-BoldItalic
+FamilyName:Kinnari
+StyleName:Bold Italic
+MenuName:Kinnari
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Kinnari Bold Italic
+FamilyNameNative:Kinnari
+StyleNameNative:Bold Italic
+FullNameNative:Kinnari Bold Italic
+WritingScript:Thai
+WinName:Kinnari Bold Italic
+FileLength:104656
+NameArray:21,Win,1,Kinnari
+NameArray:0,Mac,4,Kinnari Bold Italic
+NameArray:0,Win,1,Kinnari
+NameArray:0,Win,16,Kinnari
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Kinnari-BoldItalic
+FamilyName:Kinnari
+StyleName:Bold Italic
+MenuName:Kinnari
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Kinnari Bold Italic
+FamilyNameNative:Kinnari
+StyleNameNative:Bold Italic
+FullNameNative:Kinnari Bold Italic
+WritingScript:Thai
+WinName:Kinnari Bold Oblique
+FileLength:104656
+NameArray:21,Win,1,Kinnari
+NameArray:0,Mac,4,Kinnari Bold Italic
+NameArray:0,Win,1,Kinnari
+NameArray:0,Win,16,Kinnari
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Laksaman
+FamilyName:Laksaman
+StyleName:Regular
+MenuName:Laksaman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Laksaman
+WritingScript:Roman
+WinName:Laksaman
+FileLength:112044
+NameArray:0,Win,1,Laksaman
+NameArray:0,Mac,4,Laksaman
+NameArray:0,Win,1,Laksaman
+NameArray:0,Win,16,Laksaman
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Laksaman-Bold
+FamilyName:Laksaman
+StyleName:Bold
+MenuName:Laksaman
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Laksaman Bold
+WritingScript:Roman
+WinName:Laksaman Bold
+FileLength:109340
+NameArray:0,Win,1,Laksaman
+NameArray:0,Mac,4,Laksaman Bold
+NameArray:0,Win,1,Laksaman
+NameArray:0,Win,16,Laksaman
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Laksaman-Italic
+FamilyName:Laksaman
+StyleName:Italic
+MenuName:Laksaman
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Laksaman Italic
+WritingScript:Roman
+WinName:Laksaman Italic
+FileLength:124748
+NameArray:0,Win,1,Laksaman
+NameArray:0,Mac,4,Laksaman Italic
+NameArray:0,Win,1,Laksaman
+NameArray:0,Win,16,Laksaman
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Laksaman-BoldItalic
+FamilyName:Laksaman
+StyleName:Bold Italic
+MenuName:Laksaman
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Laksaman Bold Italic
+WritingScript:Roman
+WinName:Laksaman Bold Italic
+FileLength:123312
+NameArray:0,Win,1,Laksaman
+NameArray:0,Mac,4,Laksaman Bold Italic
+NameArray:0,Win,1,Laksaman
+NameArray:0,Win,16,Laksaman
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSansNarrow
+FamilyName:Liberation Sans Narrow
+StyleName:Regular
+MenuName:Liberation Sans Narrow
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Liberation Sans Narrow
+WritingScript:Roman
+WinName:Liberation Sans Narrow
+FileLength:113304
+NameArray:0,Win,1,Liberation Sans Narrow
+NameArray:0,Mac,4,Liberation Sans Narrow
+NameArray:0,Win,1,Liberation Sans Narrow
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSansNarrow-Bold
+FamilyName:Liberation Sans Narrow
+StyleName:Bold
+MenuName:Liberation Sans Narrow
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Liberation Sans Narrow Bold
+WritingScript:Roman
+WinName:Liberation Sans Narrow Bold
+FileLength:110560
+NameArray:0,Win,1,Liberation Sans Narrow
+NameArray:0,Mac,4,Liberation Sans Narrow Bold
+NameArray:0,Win,1,Liberation Sans Narrow
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSansNarrow-Italic
+FamilyName:Liberation Sans Narrow
+StyleName:Italic
+MenuName:Liberation Sans Narrow
+StyleBits:1
+WeightClass:400
+WidthClass:3
+AngleClass:1
+FullName:Liberation Sans Narrow Italic
+WritingScript:Roman
+WinName:Liberation Sans Narrow Italic
+FileLength:133540
+NameArray:0,Win,1,Liberation Sans Narrow
+NameArray:0,Mac,4,Liberation Sans Narrow Italic
+NameArray:0,Win,1,Liberation Sans Narrow
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LiberationSansNarrow-BoldItalic
+FamilyName:Liberation Sans Narrow
+StyleName:Bold Italic
+MenuName:Liberation Sans Narrow
+StyleBits:3
+WeightClass:700
+WidthClass:3
+AngleClass:1
+FullName:Liberation Sans Narrow Bold Italic
+WritingScript:Roman
+WinName:Liberation Sans Narrow Bold Italic
+FileLength:129448
+NameArray:0,Win,1,Liberation Sans Narrow
+NameArray:0,Mac,4,Liberation Sans Narrow Bold Italic
+NameArray:0,Win,1,Liberation Sans Narrow
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:LKLUG
+FamilyName:LKLUG
+StyleName:Regular
+MenuName:LKLUG
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:LKLUG
+WritingScript:Roman
+WinName:LKLUG
+FileLength:306452
+NameArray:0,Win,1,LKLUG
+NameArray:0,Mac,4,LKLUG
+NameArray:0,Win,1,LKLUG
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Lohit-Punjabi
+FamilyName:Lohit Punjabi
+StyleName:Regular
+MenuName:Lohit Punjabi
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lohit Punjabi
+WritingScript:Roman
+WinName:Lohit Punjabi
+FileLength:23912
+NameArray:0,Win,1,Lohit Punjabi
+NameArray:0,Mac,4,Lohit Punjabi
+NameArray:0,Win,1,Lohit Punjabi
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Loma
+FamilyName:Loma
+StyleName:Regular
+MenuName:Loma
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Loma
+FamilyNameNative:Loma
+StyleNameNative:Regular
+FullNameNative:Loma Regular
+WritingScript:Thai
+WinName:Loma
+FileLength:84316
+NameArray:21,Win,1,Loma
+NameArray:0,Mac,4,Loma
+NameArray:0,Win,1,Loma
+NameArray:0,Win,16,Loma
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Loma-Bold
+FamilyName:Loma
+StyleName:Bold
+MenuName:Loma
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Loma Bold
+FamilyNameNative:Loma
+StyleNameNative:Bold
+FullNameNative:Loma Bold
+WritingScript:Thai
+WinName:Loma Bold
+FileLength:83116
+NameArray:21,Win,1,Loma
+NameArray:0,Mac,4,Loma Bold
+NameArray:0,Win,1,Loma
+NameArray:0,Win,16,Loma
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Loma-Oblique
+FamilyName:Loma
+StyleName:Oblique
+MenuName:Loma
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Loma Oblique
+FamilyNameNative:Loma
+StyleNameNative:Oblique
+FullNameNative:Loma Oblique
+WritingScript:Thai
+WinName:Loma Oblique
+FileLength:98936
+NameArray:21,Win,1,Loma
+NameArray:0,Mac,4,Loma Oblique
+NameArray:0,Win,1,Loma
+NameArray:0,Win,16,Loma
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Loma-BoldOblique
+FamilyName:Loma
+StyleName:Bold Oblique
+MenuName:Loma
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Loma Bold Oblique
+FamilyNameNative:Loma
+StyleNameNative:Bold Oblique
+FullNameNative:Loma Bold Oblique
+WritingScript:Thai
+WinName:Loma Bold Oblique
+FileLength:94988
+NameArray:21,Win,1,Loma
+NameArray:0,Mac,4,Loma Bold Oblique
+NameArray:0,Win,1,Loma
+NameArray:0,Win,16,Loma
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:marlett
+FamilyName:Marlett
+StyleName:Regular
+MenuName:Marlett
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Marlett
+WritingScript:Roman
+WinName:Marlett
+FileLength:6136
+NameArray:0,Win,1,Marlett
+NameArray:0,Mac,4,Marlett
+NameArray:0,Win,1,Marlett
+NameArray:0,Win,1,Marlett
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:mry_KacstQurn
+FamilyName:mry_KacstQurn
+StyleName:Regular
+MenuName:mry_KacstQurn
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:mry_KacstQurn
+FamilyNameNative:mry_KacstQurn
+StyleNameNative:Regular
+FullNameNative:mry_KacstQurn Regular
+WritingScript:Arabic
+WinName:mry_KacstQurn
+FileLength:124064
+NameArray:4,Win,1,mry_KacstQurn
+NameArray:0,Mac,4,mry_KacstQurn
+NameArray:0,Win,1,mry_KacstQurn
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NanumBarunGothic
+FamilyName:NanumBarunGothic
+StyleName:Regular
+MenuName:NanumBarunGothic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:NanumBarunGothic
+FamilyNameNative:나눔바른고딕
+StyleNameNative:Regular
+FullNameNative:나눔바른고딕
+WritingScript:Korean
+WinName:NanumBarunGothic
+FileLength:4184028
+NameArray:3,Win,1,NanumBarunGothic
+NameArray:0,Mac,4,NanumBarunGothic
+NameArray:3,Mac,4,나눔바른고딕
+NameArray:0,Win,1,NanumBarunGothic
+NameArray:0,Win,16,NanumBarunGothic
+NameArray:3,Win,1,나눔바른고딕
+NameArray:3,Win,16,나눔바른고딕
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NanumBarunGothicBold
+FamilyName:NanumBarunGothic
+StyleName:Bold
+MenuName:NanumBarunGothic
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:NanumBarunGothic Bold
+FamilyNameNative:나눔바른고딕
+StyleNameNative:Bold
+FullNameNative:나눔바른고딕 Bold
+WritingScript:Korean
+WinName:NanumBarunGothic Bold
+FileLength:4413912
+NameArray:3,Win,1,NanumBarunGothic
+NameArray:0,Mac,4,NanumBarunGothic Bold
+NameArray:3,Mac,4,나눔바른고딕 Bold
+NameArray:0,Win,1,NanumBarunGothic
+NameArray:0,Win,16,NanumBarunGothic
+NameArray:3,Win,1,나눔바른고딕
+NameArray:3,Win,16,나눔바른고딕
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NanumGothic
+FamilyName:NanumGothic
+StyleName:Regular
+MenuName:NanumGothic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:NanumGothic
+FamilyNameNative:나눔고딕
+StyleNameNative:Regular
+FullNameNative:나눔고딕
+WritingScript:Korean
+WinName:NanumGothic
+FileLength:4343844
+NameArray:3,Win,1,NanumGothic
+NameArray:0,Mac,4,NanumGothic
+NameArray:3,Mac,4,나눔고딕
+NameArray:0,Win,1,NanumGothic
+NameArray:0,Win,16,NanumGothic
+NameArray:3,Win,1,나눔고딕
+NameArray:3,Win,16,나눔고딕
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NanumGothicBold
+FamilyName:NanumGothic
+StyleName:Bold
+MenuName:NanumGothic
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:NanumGothicBold
+FamilyNameNative:나눔고딕
+StyleNameNative:Bold
+FullNameNative:나눔고딕 Bold
+WritingScript:Korean
+WinName:NanumGothicBold
+FileLength:4288380
+NameArray:3,Win,1,NanumGothic
+NameArray:0,Mac,4,NanumGothic Bold
+NameArray:3,Mac,4,나눔고딕 Bold
+NameArray:3,Mac,18,나눔고딕 Bold
+NameArray:0,Win,1,NanumGothic
+NameArray:0,Win,16,NanumGothic
+NameArray:3,Win,1,나눔고딕
+NameArray:3,Win,16,나눔고딕
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NanumMyeongjoBold
+FamilyName:NanumMyeongjo
+StyleName:Bold
+MenuName:NanumMyeongjo
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:NanumMyeongjoBold
+FamilyNameNative:나눔명조
+StyleNameNative:Bold
+FullNameNative:나눔명조 Bold
+WritingScript:Korean
+WinName:NanumMyeongjoBold
+FileLength:4183592
+NameArray:3,Win,1,NanumMyeongjo
+NameArray:0,Mac,4,NanumMyeongjo Bold
+NameArray:3,Mac,4,나눔명조 Bold
+NameArray:3,Mac,18,나눔명조 Bold
+NameArray:0,Win,1,NanumMyeongjo
+NameArray:0,Win,16,NanumMyeongjo
+NameArray:3,Win,1,나눔명조
+NameArray:3,Win,16,나눔명조
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:NanumMyeongjoBold
+FamilyName:NanumMyeongjo
+StyleName:Bold
+MenuName:NanumMyeongjo
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:NanumMyeongjoBold
+FamilyNameNative:나눔명조
+StyleNameNative:Bold
+FullNameNative:나눔명조 Bold
+WritingScript:Korean
+WinName:NanumMyeongjo
+FileLength:4183592
+NameArray:3,Win,1,NanumMyeongjo
+NameArray:0,Mac,4,NanumMyeongjo Bold
+NameArray:3,Mac,4,나눔명조 Bold
+NameArray:3,Mac,18,나눔명조 Bold
+NameArray:0,Win,1,NanumMyeongjo
+NameArray:0,Win,16,NanumMyeongjo
+NameArray:3,Win,1,나눔명조
+NameArray:3,Win,16,나눔명조
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Norasi
+FamilyName:Norasi
+StyleName:Regular
+MenuName:Norasi
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Norasi
+FamilyNameNative:Norasi
+StyleNameNative:Regular
+FullNameNative:Norasi Regular
+WritingScript:Thai
+WinName:Norasi
+FileLength:108672
+NameArray:21,Win,1,Norasi
+NameArray:0,Mac,4,Norasi
+NameArray:0,Win,1,Norasi
+NameArray:0,Win,16,Norasi
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Norasi-Bold
+FamilyName:Norasi
+StyleName:Bold
+MenuName:Norasi
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Norasi Bold
+FamilyNameNative:Norasi
+StyleNameNative:Bold
+FullNameNative:Norasi Bold
+WritingScript:Thai
+WinName:Norasi Bold
+FileLength:106316
+NameArray:21,Win,1,Norasi
+NameArray:0,Mac,4,Norasi Bold
+NameArray:0,Win,1,Norasi
+NameArray:0,Win,16,Norasi
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Norasi-Italic
+FamilyName:Norasi
+StyleName:Italic
+MenuName:Norasi
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Norasi Italic
+FamilyNameNative:Norasi
+StyleNameNative:Italic
+FullNameNative:Norasi Italic
+WritingScript:Thai
+WinName:Norasi Italic
+FileLength:122276
+NameArray:21,Win,1,Norasi
+NameArray:0,Mac,4,Norasi Italic
+NameArray:0,Win,1,Norasi
+NameArray:0,Win,16,Norasi
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Norasi-BoldItalic
+FamilyName:Norasi
+StyleName:Bold Italic
+MenuName:Norasi
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Norasi Bold Italic
+FamilyNameNative:Norasi
+StyleNameNative:Bold Italic
+FullNameNative:Norasi Bold Italic
+WritingScript:Thai
+WinName:Norasi Bold Italic
+FileLength:119932
+NameArray:21,Win,1,Norasi
+NameArray:0,Mac,4,Norasi Bold Italic
+NameArray:0,Win,1,Norasi
+NameArray:0,Win,16,Norasi
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:OpenSymbol
+FamilyName:OpenSymbol
+StyleName:Regular
+MenuName:OpenSymbol
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:OpenSymbol
+WritingScript:Roman
+WinName:OpenSymbol
+FileLength:201448
+NameArray:0,Win,1,OpenSymbol
+NameArray:0,Mac,4,OpenSymbol
+NameArray:0,Win,1,OpenSymbol
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:�??�?��?��?��?��??�?�-Regular
+FamilyName:Padauk
+StyleName:Regular
+MenuName:Padauk
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Padauk
+WritingScript:Roman
+WinName:Padauk
+FileLength:472488
+NameArray:0,Win,1,Padauk
+NameArray:0,Mac,4,Padauk
+NameArray:0,Mac,18,Padauk
+NameArray:0,Mac,18,‡??‡??‡??‡?±‡?Â‡??‡?¼
+NameArray:0,Mac,4,‡??‡??‡??‡?±‡?Â‡??‡?¼
+NameArray:0,Win,1,Padauk
+NameArray:0,Win,16,Padauk
+NameArray:0,Win,1,á€•á€­á€á€±á€¬á€€á€º
+NameArray:0,Win,16,á€•á€­á€á€±á€¬á€€á€º
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:�??�?��?��?��?��??�?�-�??�?��??�?��?��?��??�?�
+FamilyName:Padauk
+StyleName:Bold
+MenuName:Padauk
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Padauk Bold
+WritingScript:Roman
+WinName:Padauk Bold
+FileLength:443268
+NameArray:0,Win,1,Padauk
+NameArray:0,Mac,4,Padauk Bold
+NameArray:0,Mac,18,Padauk Bold
+NameArray:0,Mac,18,‡??‡??‡??‡?±‡?Â‡??‡?¼ ‡??‡?Â‡??‡?ø‡?¦‡?ü‡??‡??
+NameArray:0,Mac,4,‡??‡??‡??‡?±‡?Â‡??‡?¼ ‡??‡?Â‡??‡?ø‡?¦‡?ü‡??‡??
+NameArray:0,Win,1,Padauk
+NameArray:0,Win,16,Padauk
+NameArray:0,Win,1,á€•á€­á€á€±á€¬á€€á€º
+NameArray:0,Win,16,á€•á€­á€á€±á€¬á€€á€º
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:�??�?��?��?��?��??�?��??�?��?��?��??�?�-Regular
+FamilyName:Padauk Book
+StyleName:Regular
+MenuName:Padauk Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Padauk Book
+WritingScript:Roman
+WinName:Padauk Book
+FileLength:476528
+NameArray:0,Win,1,Padauk Book
+NameArray:0,Mac,4,Padauk Book
+NameArray:0,Mac,18,Padauk Book
+NameArray:0,Mac,18,‡??‡??‡??‡?±‡?Â‡??‡?¼‡??‡?Â‡?Á‡?ø‡??‡?¼
+NameArray:0,Mac,4,‡??‡??‡??‡?±‡?Â‡??‡?¼‡??‡?Â‡?Á‡?ø‡??‡?¼
+NameArray:0,Win,1,Padauk Book
+NameArray:0,Win,16,Padauk Book
+NameArray:0,Win,1,á€•á€­á€á€±á€¬á€€á€ºá€…á€¬á€¡á€¯á€•á€º
+NameArray:0,Win,16,á€•á€­á€á€±á€¬á€€á€ºá€…á€¬á€¡á€¯á€•á€º
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:�??�?��?��?��?��??�?��??�?��?��?��??�?�-�??�?��??�?��?��?��??�?�
+FamilyName:Padauk Book
+StyleName:Bold
+MenuName:Padauk Book
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Padauk Book Bold
+WritingScript:Roman
+WinName:Padauk Book Bold
+FileLength:442096
+NameArray:0,Win,1,Padauk Book
+NameArray:0,Mac,4,Padauk Book Bold
+NameArray:0,Mac,18,Padauk Book Bold
+NameArray:0,Mac,18,‡??‡??‡??‡?±‡?Â‡??‡?¼‡??‡?Â‡?Á‡?ø‡??‡?¼ ‡??‡?Â‡??‡?ø‡?¦‡?ü‡??‡??
+NameArray:0,Mac,4,‡??‡??‡??‡?±‡?Â‡??‡?¼‡??‡?Â‡?Á‡?ø‡??‡?¼ ‡??‡?Â‡??‡?ø‡?¦‡?ü‡??‡??
+NameArray:0,Win,1,Padauk Book
+NameArray:0,Win,16,Padauk Book
+NameArray:0,Win,1,á€•á€­á€á€±á€¬á€€á€ºá€…á€¬á€¡á€¯á€•á€º
+NameArray:0,Win,16,á€•á€­á€á€±á€¬á€€á€ºá€…á€¬á€¡á€¯á€•á€º
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:PhetsarathOT
+FamilyName:Phetsarath OT
+StyleName:Regular
+MenuName:Phetsarath OT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Phetsarath OT
+WritingScript:Roman
+WinName:Phetsarath OT
+FileLength:92828
+NameArray:0,Win,1,Phetsarath OT
+NameArray:0,Mac,18,Phetsarath OT
+NameArray:0,Mac,4,Phetsarath OT
+NameArray:0,Win,1,Phetsarath OT
+NameArray:0,Win,16,Phetsarath OT
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Purisa
+FamilyName:Purisa
+StyleName:Regular
+MenuName:Purisa
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Purisa
+WritingScript:Roman
+WinName:Purisa
+FileLength:164044
+NameArray:0,Win,1,Purisa
+NameArray:0,Mac,4,Purisa
+NameArray:0,Win,1,Purisa
+NameArray:0,Win,16,Purisa
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Purisa-Bold
+FamilyName:Purisa
+StyleName:Bold
+MenuName:Purisa
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Purisa Bold
+WritingScript:Roman
+WinName:Purisa Bold
+FileLength:154556
+NameArray:0,Win,1,Purisa
+NameArray:0,Mac,4,Purisa Bold
+NameArray:0,Win,1,Purisa
+NameArray:0,Win,16,Purisa
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Purisa-Oblique
+FamilyName:Purisa
+StyleName:Oblique
+MenuName:Purisa
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Purisa Oblique
+WritingScript:Roman
+WinName:Purisa Oblique
+FileLength:168380
+NameArray:0,Win,1,Purisa
+NameArray:0,Mac,4,Purisa Oblique
+NameArray:0,Win,1,Purisa
+NameArray:0,Win,16,Purisa
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Purisa-BoldOblique
+FamilyName:Purisa
+StyleName:Bold Oblique
+MenuName:Purisa
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Purisa Bold Oblique
+WritingScript:Roman
+WinName:Purisa Bold Oblique
+FileLength:161416
+NameArray:0,Win,1,Purisa
+NameArray:0,Mac,4,Purisa Bold Oblique
+NameArray:0,Win,1,Purisa
+NameArray:0,Win,16,Purisa
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Saab
+FamilyName:Saab
+StyleName:Regular
+MenuName:Saab
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Saab
+WritingScript:Roman
+WinName:Saab
+FileLength:114092
+NameArray:0,Win,1,Saab
+NameArray:0,Mac,18,Saab
+NameArray:0,Mac,4,Saab
+NameArray:0,Win,1,Saab
+NameArray:0,Win,16,Saab
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Sawasdee
+FamilyName:Sawasdee
+StyleName:Regular
+MenuName:Sawasdee
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Sawasdee
+FamilyNameNative:Sawasdee
+StyleNameNative:Regular
+FullNameNative:Sawasdee Regular
+WritingScript:Thai
+WinName:Sawasdee
+FileLength:89732
+NameArray:21,Win,1,Sawasdee
+NameArray:0,Mac,4,Sawasdee
+NameArray:0,Win,1,Sawasdee
+NameArray:0,Win,16,Sawasdee
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Sawasdee-Bold
+FamilyName:Sawasdee
+StyleName:Bold
+MenuName:Sawasdee
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Sawasdee Bold
+FamilyNameNative:Sawasdee
+StyleNameNative:Bold
+FullNameNative:Sawasdee Bold
+WritingScript:Thai
+WinName:Sawasdee Bold
+FileLength:87488
+NameArray:21,Win,1,Sawasdee
+NameArray:0,Mac,4,Sawasdee Bold
+NameArray:0,Win,1,Sawasdee
+NameArray:0,Win,16,Sawasdee
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Sawasdee-Oblique
+FamilyName:Sawasdee
+StyleName:Oblique
+MenuName:Sawasdee
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Sawasdee Oblique
+FamilyNameNative:Sawasdee
+StyleNameNative:Oblique
+FullNameNative:Sawasdee Oblique
+WritingScript:Thai
+WinName:Sawasdee Oblique
+FileLength:108232
+NameArray:21,Win,1,Sawasdee
+NameArray:0,Mac,4,Sawasdee Oblique
+NameArray:0,Win,1,Sawasdee
+NameArray:0,Win,16,Sawasdee
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Sawasdee-BoldOblique
+FamilyName:Sawasdee
+StyleName:Bold Oblique
+MenuName:Sawasdee
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Sawasdee Bold Oblique
+FamilyNameNative:Sawasdee
+StyleNameNative:Bold Oblique
+FullNameNative:Sawasdee Bold Oblique
+WritingScript:Thai
+WinName:Sawasdee Bold Oblique
+FileLength:104232
+NameArray:21,Win,1,Sawasdee
+NameArray:0,Mac,4,Sawasdee Bold Oblique
+NameArray:0,Win,1,Sawasdee
+NameArray:0,Win,16,Sawasdee
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIX-Regular
+FamilyName:STIX
+StyleName:Regular
+MenuName:STIX
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIX-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIX-Regular
+FileLength:426932
+NameArray:0,Win,1,STIX
+NameArray:0,Mac,4,STIX-Regular
+NameArray:0,Win,1,STIX
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIX-Bold
+FamilyName:STIX
+StyleName:Bold
+MenuName:STIX
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIX-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIX-Bold
+FileLength:206200
+NameArray:0,Win,1,STIX
+NameArray:0,Mac,4,STIX-Bold
+NameArray:0,Win,1,STIX
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIX-Italic
+FamilyName:STIX
+StyleName:Italic
+MenuName:STIX
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:STIX-Italic
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIX-Italic
+FileLength:175332
+NameArray:0,Win,1,STIX
+NameArray:0,Mac,4,STIX-Italic
+NameArray:0,Win,1,STIX
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIX-BoldItalic
+FamilyName:STIX
+StyleName:Bold Italic
+MenuName:STIX
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:STIX-BoldItalic
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIX-BoldItalic
+FileLength:172348
+NameArray:0,Win,1,STIX
+NameArray:0,Mac,4,STIX-BoldItalic
+NameArray:0,Win,1,STIX
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXMath-Regular
+FamilyName:STIX Math
+StyleName:Regular
+MenuName:STIX Math
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIX Math Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXMath-Regular
+FileLength:476872
+NameArray:0,Win,1,STIX Math
+NameArray:0,Mac,4,STIX Math Regular
+NameArray:0,Win,1,STIX Math
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXGeneral-Regular
+FamilyName:STIXGeneral
+StyleName:Regular
+MenuName:STIXGeneral
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXGeneral-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXGeneral-Regular
+FileLength:369156
+NameArray:0,Win,1,STIXGeneral
+NameArray:0,Mac,4,STIXGeneral-Regular
+NameArray:0,Win,1,STIXGeneral
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXGeneral-Bold
+FamilyName:STIXGeneral
+StyleName:Bold
+MenuName:STIXGeneral
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXGeneral-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXGeneral-Bold
+FileLength:186612
+NameArray:0,Win,1,STIXGeneral
+NameArray:0,Mac,4,STIXGeneral-Bold
+NameArray:0,Win,1,STIXGeneral
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXGeneral-Italic
+FamilyName:STIXGeneral
+StyleName:Italic
+MenuName:STIXGeneral
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:STIXGeneral-Italic
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXGeneral-Italic
+FileLength:141844
+NameArray:0,Win,1,STIXGeneral
+NameArray:0,Mac,4,STIXGeneral-Italic
+NameArray:0,Win,1,STIXGeneral
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXGeneral-BoldItalic
+FamilyName:STIXGeneral
+StyleName:Bold Italic
+MenuName:STIXGeneral
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:STIXGeneral-BoldItalic
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXGeneral-BoldItalic
+FileLength:143764
+NameArray:0,Win,1,STIXGeneral
+NameArray:0,Mac,4,STIXGeneral-BoldItalic
+NameArray:0,Win,1,STIXGeneral
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXIntegralsD-Regular
+FamilyName:STIXIntegralsD
+StyleName:Regular
+MenuName:STIXIntegralsD
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXIntegralsD-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXIntegralsD-Regular
+FileLength:17500
+NameArray:0,Win,1,STIXIntegralsD
+NameArray:0,Mac,4,STIXIntegralsD-Regular
+NameArray:0,Win,1,STIXIntegralsD
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXIntegralsD-Bold
+FamilyName:STIXIntegralsD
+StyleName:Bold
+MenuName:STIXIntegralsD
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXIntegralsD-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXIntegralsD-Bold
+FileLength:16992
+NameArray:0,Win,1,STIXIntegralsD
+NameArray:0,Mac,4,STIXIntegralsD-Bold
+NameArray:0,Win,1,STIXIntegralsD
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXIntegralsSm-Regular
+FamilyName:STIXIntegralsSm
+StyleName:Regular
+MenuName:STIXIntegralsSm
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXIntegralsSm-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXIntegralsSm-Regular
+FileLength:17416
+NameArray:0,Win,1,STIXIntegralsSm
+NameArray:0,Mac,4,STIXIntegralsSm-Regular
+NameArray:0,Win,1,STIXIntegralsSm
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXIntegralsSm-Bold
+FamilyName:STIXIntegralsSm
+StyleName:Bold
+MenuName:STIXIntegralsSm
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXIntegralsSm-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXIntegralsSm-Bold
+FileLength:16608
+NameArray:0,Win,1,STIXIntegralsSm
+NameArray:0,Mac,4,STIXIntegralsSm-Bold
+NameArray:0,Win,1,STIXIntegralsSm
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXIntegralsUp-Regular
+FamilyName:STIXIntegralsUp
+StyleName:Regular
+MenuName:STIXIntegralsUp
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXIntegralsUp-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXIntegralsUp-Regular
+FileLength:16856
+NameArray:0,Win,1,STIXIntegralsUp
+NameArray:0,Mac,4,STIXIntegralsUp-Regular
+NameArray:0,Win,1,STIXIntegralsUp
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXIntegralsUp-Bold
+FamilyName:STIXIntegralsUp
+StyleName:Bold
+MenuName:STIXIntegralsUp
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXIntegralsUp-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXIntegralsUp-Bold
+FileLength:16576
+NameArray:0,Win,1,STIXIntegralsUp
+NameArray:0,Mac,4,STIXIntegralsUp-Bold
+NameArray:0,Win,1,STIXIntegralsUp
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXIntegralsUpD-Regular
+FamilyName:STIXIntegralsUpD
+StyleName:Regular
+MenuName:STIXIntegralsUpD
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXIntegralsUpD-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXIntegralsUpD-Regular
+FileLength:16964
+NameArray:0,Win,1,STIXIntegralsUpD
+NameArray:0,Mac,4,STIXIntegralsUpD-Regular
+NameArray:0,Win,1,STIXIntegralsUpD
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXIntegralsUpD-Bold
+FamilyName:STIXIntegralsUpD
+StyleName:Bold
+MenuName:STIXIntegralsUpD
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXIntegralsUpD-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXIntegralsUpD-Bold
+FileLength:16932
+NameArray:0,Win,1,STIXIntegralsUpD
+NameArray:0,Mac,4,STIXIntegralsUpD-Bold
+NameArray:0,Win,1,STIXIntegralsUpD
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXIntegralsUpSm-Regular
+FamilyName:STIXIntegralsUpSm
+StyleName:Regular
+MenuName:STIXIntegralsUpSm
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXIntegralsUpSm-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXIntegralsUpSm-Regular
+FileLength:17184
+NameArray:0,Win,1,STIXIntegralsUpSm
+NameArray:0,Mac,4,STIXIntegralsUpSm-Regular
+NameArray:0,Win,1,STIXIntegralsUpSm
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXIntegralsUpSm-Bold
+FamilyName:STIXIntegralsUpSm
+StyleName:Bold
+MenuName:STIXIntegralsUpSm
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXIntegralsUpSm-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXIntegralsUpSm-Bold
+FileLength:16916
+NameArray:0,Win,1,STIXIntegralsUpSm
+NameArray:0,Mac,4,STIXIntegralsUpSm-Bold
+NameArray:0,Win,1,STIXIntegralsUpSm
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXNonUnicode-Regular
+FamilyName:STIXNonUnicode
+StyleName:Regular
+MenuName:STIXNonUnicode
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXNonUnicode-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXNonUnicode-Regular
+FileLength:54556
+NameArray:0,Win,1,STIXNonUnicode
+NameArray:0,Mac,4,STIXNonUnicode-Regular
+NameArray:0,Win,1,STIXNonUnicode
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXNonUnicode-Bold
+FamilyName:STIXNonUnicode
+StyleName:Bold
+MenuName:STIXNonUnicode
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXNonUnicode-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXNonUnicode-Bold
+FileLength:25508
+NameArray:0,Win,1,STIXNonUnicode
+NameArray:0,Mac,4,STIXNonUnicode-Bold
+NameArray:0,Win,1,STIXNonUnicode
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXNonUnicode-Italic
+FamilyName:STIXNonUnicode
+StyleName:Italic
+MenuName:STIXNonUnicode
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:STIXNonUnicode-Italic
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXNonUnicode-Italic
+FileLength:46268
+NameArray:0,Win,1,STIXNonUnicode
+NameArray:0,Mac,4,STIXNonUnicode-Italic
+NameArray:0,Win,1,STIXNonUnicode
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXNonUnicode-BoldItalic
+FamilyName:STIXNonUnicode
+StyleName:Bold Italic
+MenuName:STIXNonUnicode
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:STIXNonUnicode-BoldItalic
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXNonUnicode-BoldItalic
+FileLength:41188
+NameArray:0,Win,1,STIXNonUnicode
+NameArray:0,Mac,4,STIXNonUnicode-BoldItalic
+NameArray:0,Win,1,STIXNonUnicode
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXSizeFiveSym-Regular
+FamilyName:STIXSizeFiveSym
+StyleName:Regular
+MenuName:STIXSizeFiveSym
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXSizeFiveSym-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXSizeFiveSym-Regular
+FileLength:13464
+NameArray:0,Win,1,STIXSizeFiveSym
+NameArray:0,Mac,4,STIXSizeFiveSym-Regular
+NameArray:0,Win,1,STIXSizeFiveSym
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXSizeFourSym-Regular
+FamilyName:STIXSizeFourSym
+StyleName:Regular
+MenuName:STIXSizeFourSym
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXSizeFourSym-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXSizeFourSym-Regular
+FileLength:15656
+NameArray:0,Win,1,STIXSizeFourSym
+NameArray:0,Mac,4,STIXSizeFourSym-Regular
+NameArray:0,Win,1,STIXSizeFourSym
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXSizeFourSym-Bold
+FamilyName:STIXSizeFourSym
+StyleName:Bold
+MenuName:STIXSizeFourSym
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXSizeFourSym-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXSizeFourSym-Bold
+FileLength:12628
+NameArray:0,Win,1,STIXSizeFourSym
+NameArray:0,Mac,4,STIXSizeFourSym-Bold
+NameArray:0,Win,1,STIXSizeFourSym
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXSizeOneSym-Regular
+FamilyName:STIXSizeOneSym
+StyleName:Regular
+MenuName:STIXSizeOneSym
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXSizeOneSym-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXSizeOneSym-Regular
+FileLength:19004
+NameArray:0,Win,1,STIXSizeOneSym
+NameArray:0,Mac,4,STIXSizeOneSym-Regular
+NameArray:0,Win,1,STIXSizeOneSym
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXSizeOneSym-Bold
+FamilyName:STIXSizeOneSym
+StyleName:Bold
+MenuName:STIXSizeOneSym
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXSizeOneSym-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXSizeOneSym-Bold
+FileLength:12924
+NameArray:0,Win,1,STIXSizeOneSym
+NameArray:0,Mac,4,STIXSizeOneSym-Bold
+NameArray:0,Win,1,STIXSizeOneSym
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXSizeThreeSym-Regular
+FamilyName:STIXSizeThreeSym
+StyleName:Regular
+MenuName:STIXSizeThreeSym
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXSizeThreeSym-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXSizeThreeSym-Regular
+FileLength:15648
+NameArray:0,Win,1,STIXSizeThreeSym
+NameArray:0,Mac,4,STIXSizeThreeSym-Regular
+NameArray:0,Win,1,STIXSizeThreeSym
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXSizeThreeSym-Bold
+FamilyName:STIXSizeThreeSym
+StyleName:Bold
+MenuName:STIXSizeThreeSym
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXSizeThreeSym-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXSizeThreeSym-Bold
+FileLength:12636
+NameArray:0,Win,1,STIXSizeThreeSym
+NameArray:0,Mac,4,STIXSizeThreeSym-Bold
+NameArray:0,Win,1,STIXSizeThreeSym
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXSizeTwoSym-Regular
+FamilyName:STIXSizeTwoSym
+StyleName:Regular
+MenuName:STIXSizeTwoSym
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXSizeTwoSym-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXSizeTwoSym-Regular
+FileLength:15620
+NameArray:0,Win,1,STIXSizeTwoSym
+NameArray:0,Mac,4,STIXSizeTwoSym-Regular
+NameArray:0,Win,1,STIXSizeTwoSym
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXSizeTwoSym-Bold
+FamilyName:STIXSizeTwoSym
+StyleName:Bold
+MenuName:STIXSizeTwoSym
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXSizeTwoSym-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXSizeTwoSym-Bold
+FileLength:12576
+NameArray:0,Win,1,STIXSizeTwoSym
+NameArray:0,Mac,4,STIXSizeTwoSym-Bold
+NameArray:0,Win,1,STIXSizeTwoSym
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXVariants-Regular
+FamilyName:STIXVariants
+StyleName:Regular
+MenuName:STIXVariants
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:STIXVariants-Regular
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXVariants-Regular
+FileLength:21776
+NameArray:0,Win,1,STIXVariants
+NameArray:0,Mac,4,STIXVariants-Regular
+NameArray:0,Win,1,STIXVariants
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:Type1
+FontName:STIXVariants-Bold
+FamilyName:STIXVariants
+StyleName:Bold
+MenuName:STIXVariants
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:STIXVariants-Bold
+WritingScript:Roman
+UsesStandardEncoding:yes
+isCFF:yes
+WinName:STIXVariants-Bold
+FileLength:14808
+NameArray:0,Win,1,STIXVariants
+NameArray:0,Mac,4,STIXVariants-Bold
+NameArray:0,Win,1,STIXVariants
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:WineSymbol
+FamilyName:Symbol
+StyleName:Regular
+MenuName:Symbol
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Symbol
+WritingScript:Roman
+WinName:Symbol
+FileLength:26028
+NameArray:0,Win,1,Symbol
+NameArray:0,Mac,4,Symbol
+NameArray:0,Win,1,Symbol
+NameArray:0,Win,1,Symbol
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Symbola
+FamilyName:Symbola
+StyleName:Regular
+MenuName:Symbola
+StyleBits:0
+WeightClass:400
+WidthClass:4
+AngleClass:0
+FullName:Symbola
+FamilyNameNative:Symbola
+StyleNameNative:Regular
+FullNameNative:Symbola Regular
+WritingScript:Cyrillic
+WinName:Symbola
+FileLength:3025192
+NameArray:7,Win,1,Symbola
+NameArray:0,Mac,4,Symbola
+NameArray:0,Win,1,Symbola
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:WineTahoma
+FamilyName:Tahoma
+StyleName:Regular
+MenuName:Tahoma
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tahoma
+WritingScript:Roman
+WinName:Tahoma
+FileLength:143652
+NameArray:0,Win,1,Tahoma
+NameArray:0,Mac,4,Tahoma
+NameArray:0,Win,1,Tahoma
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:WineTahomaBold
+FamilyName:Tahoma
+StyleName:Bold
+MenuName:Tahoma
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Tahoma Bold
+WritingScript:Roman
+WinName:Tahoma Bold
+FileLength:137272
+NameArray:0,Win,1,Tahoma
+NameArray:0,Mac,4,Tahoma Bold
+NameArray:0,Win,1,Tahoma
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TakaoPGothic
+FamilyName:TakaoPGothic
+StyleName:Regular
+MenuName:TakaoPGothic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:TakaoPGothic
+FamilyNameNative:Takao Pゴシック
+StyleNameNative:Regular
+FullNameNative:Takao Pゴシック
+WritingScript:Japanese
+WinName:TakaoPGothic
+FileLength:6234746
+NameArray:1,Win,1,TakaoPGothic
+NameArray:0,Mac,4,TakaoPGothic
+NameArray:1,Mac,4,TakaoPGothic
+NameArray:0,Win,1,TakaoPGothic
+NameArray:1,Win,1,Takao Pゴシック
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Tibetan_Machine_Uni
+FamilyName:Tibetan Machine Uni
+StyleName:Regular
+MenuName:Tibetan Machine Uni
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tibetan_Machine_Uni
+WritingScript:Roman
+WinName:Tibetan_Machine_Uni
+FileLength:4511176
+NameArray:0,Win,1,Tibetan Machine Uni
+NameArray:0,Mac,18,Tibetan Machine Uni
+NameArray:0,Mac,4,Tibetan Machine Uni
+NameArray:0,Win,1,Tibetan Machine Uni
+NameArray:0,Win,16,Tibetan Machine Uni
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypist
+FamilyName:Tlwg Typist
+StyleName:Regular
+MenuName:Tlwg Typist
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Tlwg Typist
+FamilyNameNative:Tlwg Typist
+StyleNameNative:Regular
+FullNameNative:Tlwg Typist Regular
+WritingScript:Thai
+WinName:Tlwg Typist
+FileLength:97444
+NameArray:21,Win,1,Tlwg Typist
+NameArray:0,Mac,4,Tlwg Typist
+NameArray:0,Win,1,Tlwg Typist
+NameArray:0,Win,16,Tlwg Typist
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypist-Bold
+FamilyName:Tlwg Typist
+StyleName:Bold
+MenuName:Tlwg Typist
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Tlwg Typist Bold
+FamilyNameNative:Tlwg Typist
+StyleNameNative:Bold
+FullNameNative:Tlwg Typist Bold
+WritingScript:Thai
+WinName:Tlwg Typist Bold
+FileLength:94888
+NameArray:21,Win,1,Tlwg Typist
+NameArray:0,Mac,4,Tlwg Typist Bold
+NameArray:0,Win,1,Tlwg Typist
+NameArray:0,Win,16,Tlwg Typist
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypist-Oblique
+FamilyName:Tlwg Typist
+StyleName:Oblique
+MenuName:Tlwg Typist
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Tlwg Typist Oblique
+FamilyNameNative:Tlwg Typist
+StyleNameNative:Oblique
+FullNameNative:Tlwg Typist Oblique
+WritingScript:Thai
+WinName:Tlwg Typist Oblique
+FileLength:113268
+NameArray:21,Win,1,Tlwg Typist
+NameArray:0,Mac,4,Tlwg Typist Oblique
+NameArray:0,Win,1,Tlwg Typist
+NameArray:0,Win,16,Tlwg Typist
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypist-BoldOblique
+FamilyName:Tlwg Typist
+StyleName:Bold Oblique
+MenuName:Tlwg Typist
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Tlwg Typist Bold Oblique
+FamilyNameNative:Tlwg Typist
+StyleNameNative:Bold Oblique
+FullNameNative:Tlwg Typist Bold Oblique
+WritingScript:Thai
+WinName:Tlwg Typist Bold Oblique
+FileLength:107376
+NameArray:21,Win,1,Tlwg Typist
+NameArray:0,Mac,4,Tlwg Typist Bold Oblique
+NameArray:0,Win,1,Tlwg Typist
+NameArray:0,Win,16,Tlwg Typist
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypo
+FamilyName:Tlwg Typo
+StyleName:Regular
+MenuName:Tlwg Typo
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Tlwg Typo
+FamilyNameNative:Tlwg Typo
+StyleNameNative:Regular
+FullNameNative:Tlwg Typo Regular
+WritingScript:Thai
+WinName:Tlwg Typo
+FileLength:97848
+NameArray:21,Win,1,Tlwg Typo
+NameArray:0,Mac,4,Tlwg Typo
+NameArray:0,Win,1,Tlwg Typo
+NameArray:0,Win,16,Tlwg Typo
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypo-Bold
+FamilyName:Tlwg Typo
+StyleName:Bold
+MenuName:Tlwg Typo
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Tlwg Typo Bold
+FamilyNameNative:Tlwg Typo
+StyleNameNative:Bold
+FullNameNative:Tlwg Typo Bold
+WritingScript:Thai
+WinName:Tlwg Typo Bold
+FileLength:96072
+NameArray:21,Win,1,Tlwg Typo
+NameArray:0,Mac,4,Tlwg Typo Bold
+NameArray:0,Win,1,Tlwg Typo
+NameArray:0,Win,16,Tlwg Typo
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypo-Oblique
+FamilyName:Tlwg Typo
+StyleName:Oblique
+MenuName:Tlwg Typo
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Tlwg Typo Oblique
+FamilyNameNative:Tlwg Typo
+StyleNameNative:Oblique
+FullNameNative:Tlwg Typo Oblique
+WritingScript:Thai
+WinName:Tlwg Typo Oblique
+FileLength:113868
+NameArray:21,Win,1,Tlwg Typo
+NameArray:0,Mac,4,Tlwg Typo Oblique
+NameArray:0,Win,1,Tlwg Typo
+NameArray:0,Win,16,Tlwg Typo
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypo-BoldOblique
+FamilyName:Tlwg Typo
+StyleName:Bold Oblique
+MenuName:Tlwg Typo
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Tlwg Typo Bold Oblique
+FamilyNameNative:Tlwg Typo
+StyleNameNative:Bold Oblique
+FullNameNative:Tlwg Typo Bold Oblique
+WritingScript:Thai
+WinName:Tlwg Typo Bold Oblique
+FileLength:108148
+NameArray:21,Win,1,Tlwg Typo
+NameArray:0,Mac,4,Tlwg Typo Bold Oblique
+NameArray:0,Win,1,Tlwg Typo
+NameArray:0,Win,16,Tlwg Typo
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgMono
+FamilyName:Tlwg Mono
+StyleName:Regular
+MenuName:TlwgMono
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Tlwg Mono
+FamilyNameNative:Tlwg Mono
+StyleNameNative:Regular
+FullNameNative:Tlwg Mono Regular
+WritingScript:Thai
+WinName:Tlwg Mono
+FileLength:92064
+NameArray:21,Win,1,TlwgMono
+NameArray:0,Mac,4,Tlwg Mono
+NameArray:0,Win,1,TlwgMono
+NameArray:0,Win,16,Tlwg Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgMono-Bold
+FamilyName:Tlwg Mono
+StyleName:Bold
+MenuName:TlwgMono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Tlwg Mono Bold
+FamilyNameNative:Tlwg Mono
+StyleNameNative:Bold
+FullNameNative:Tlwg Mono Bold
+WritingScript:Thai
+WinName:Tlwg Mono Bold
+FileLength:91904
+NameArray:21,Win,1,TlwgMono
+NameArray:0,Mac,4,Tlwg Mono Bold
+NameArray:0,Win,1,TlwgMono
+NameArray:0,Win,16,Tlwg Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgMono-Oblique
+FamilyName:Tlwg Mono
+StyleName:Oblique
+MenuName:TlwgMono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Tlwg Mono Oblique
+FamilyNameNative:Tlwg Mono
+StyleNameNative:Oblique
+FullNameNative:Tlwg Mono Oblique
+WritingScript:Thai
+WinName:Tlwg Mono Oblique
+FileLength:108972
+NameArray:21,Win,1,TlwgMono
+NameArray:0,Mac,4,Tlwg Mono Oblique
+NameArray:0,Win,1,TlwgMono
+NameArray:0,Win,16,Tlwg Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgMono-BoldOblique
+FamilyName:Tlwg Mono
+StyleName:Bold Oblique
+MenuName:TlwgMono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Tlwg Mono Bold Oblique
+FamilyNameNative:Tlwg Mono
+StyleNameNative:Bold Oblique
+FullNameNative:Tlwg Mono Bold Oblique
+WritingScript:Thai
+WinName:Tlwg Mono Bold Oblique
+FileLength:103584
+NameArray:21,Win,1,TlwgMono
+NameArray:0,Mac,4,Tlwg Mono Bold Oblique
+NameArray:0,Win,1,TlwgMono
+NameArray:0,Win,16,Tlwg Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypewriter
+FamilyName:Tlwg Typewriter
+StyleName:Regular
+MenuName:TlwgTypewriter
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Tlwg Typewriter
+FamilyNameNative:Tlwg Typewriter
+StyleNameNative:Regular
+FullNameNative:Tlwg Typewriter Regular
+WritingScript:Thai
+WinName:Tlwg Typewriter
+FileLength:97536
+NameArray:21,Win,1,TlwgTypewriter
+NameArray:0,Mac,4,Tlwg Typewriter
+NameArray:0,Win,1,TlwgTypewriter
+NameArray:0,Win,16,Tlwg Typewriter
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypewriter-Bold
+FamilyName:Tlwg Typewriter
+StyleName:Bold
+MenuName:TlwgTypewriter
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Tlwg Typewriter Bold
+FamilyNameNative:Tlwg Typewriter
+StyleNameNative:Bold
+FullNameNative:Tlwg Typewriter Bold
+WritingScript:Thai
+WinName:Tlwg Typewriter Bold
+FileLength:97432
+NameArray:21,Win,1,TlwgTypewriter
+NameArray:0,Mac,4,Tlwg Typewriter Bold
+NameArray:0,Win,1,TlwgTypewriter
+NameArray:0,Win,16,Tlwg Typewriter
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypewriter-Oblique
+FamilyName:Tlwg Typewriter
+StyleName:Oblique
+MenuName:TlwgTypewriter
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Tlwg Typewriter Oblique
+FamilyNameNative:Tlwg Typewriter
+StyleNameNative:Oblique
+FullNameNative:Tlwg Typewriter Oblique
+WritingScript:Thai
+WinName:Tlwg Typewriter Oblique
+FileLength:113892
+NameArray:21,Win,1,TlwgTypewriter
+NameArray:0,Mac,4,Tlwg Typewriter Oblique
+NameArray:0,Win,1,TlwgTypewriter
+NameArray:0,Win,16,Tlwg Typewriter
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:TlwgTypewriter-BoldOblique
+FamilyName:Tlwg Typewriter
+StyleName:Bold Oblique
+MenuName:TlwgTypewriter
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Tlwg Typewriter Bold Oblique
+FamilyNameNative:Tlwg Typewriter
+StyleNameNative:Bold Oblique
+FullNameNative:Tlwg Typewriter Bold Oblique
+WritingScript:Thai
+WinName:Tlwg Typewriter Bold Oblique
+FileLength:109124
+NameArray:21,Win,1,TlwgTypewriter
+NameArray:0,Mac,4,Tlwg Typewriter Bold Oblique
+NameArray:0,Win,1,TlwgTypewriter
+NameArray:0,Win,16,Tlwg Typewriter
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ubuntu
+FamilyName:Ubuntu
+StyleName:Regular
+MenuName:Ubuntu
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu
+WritingScript:Roman
+WinName:Ubuntu
+FileLength:353824
+NameArray:0,Win,1,Ubuntu
+NameArray:0,Mac,4,Ubuntu
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ubuntu-Bold
+FamilyName:Ubuntu
+StyleName:Bold
+MenuName:Ubuntu
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Bold
+WritingScript:Roman
+WinName:Ubuntu Bold
+FileLength:333612
+NameArray:0,Win,1,Ubuntu
+NameArray:0,Mac,4,Ubuntu Bold
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ubuntu-Italic
+FamilyName:Ubuntu
+StyleName:Italic
+MenuName:Ubuntu
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Ubuntu Italic
+WritingScript:Roman
+WinName:Ubuntu Italic
+FileLength:386440
+NameArray:0,Win,1,Ubuntu
+NameArray:0,Mac,4,Ubuntu Italic
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ubuntu-BoldItalic
+FamilyName:Ubuntu
+StyleName:Bold Italic
+MenuName:Ubuntu
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Ubuntu Bold Italic
+WritingScript:Roman
+WinName:Ubuntu Bold Italic
+FileLength:356980
+NameArray:0,Win,1,Ubuntu
+NameArray:0,Mac,18,Ubuntu Bold Italic
+NameArray:0,Mac,4,Ubuntu Bold Italic
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:UbuntuCondensed-Regular
+FamilyName:Ubuntu Condensed
+StyleName:Regular
+MenuName:Ubuntu Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Condensed
+WritingScript:Roman
+WinName:Ubuntu Condensed
+FileLength:350444
+NameArray:0,Win,1,Ubuntu Condensed
+NameArray:0,Mac,18,Ubuntu Condensed
+NameArray:0,Mac,4,Ubuntu Condensed
+NameArray:0,Win,1,Ubuntu Condensed
+NameArray:0,Win,16,Ubuntu Condensed
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ubuntu-Light
+FamilyName:Ubuntu
+StyleName:Light
+MenuName:Ubuntu Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Light
+WritingScript:Roman
+WinName:Ubuntu Light
+FileLength:415552
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Mac,18,Ubuntu Light
+NameArray:0,Mac,4,Ubuntu Light
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ubuntu-Light
+FamilyName:Ubuntu
+StyleName:Light
+MenuName:Ubuntu Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Light
+WritingScript:Roman
+WinName:Ubuntu Medium
+FileLength:415552
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Mac,18,Ubuntu Light
+NameArray:0,Mac,4,Ubuntu Light
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ubuntu-LightItalic
+FamilyName:Ubuntu
+StyleName:Light Italic
+MenuName:Ubuntu Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Ubuntu Light Italic
+WritingScript:Roman
+WinName:Ubuntu Light Italic
+FileLength:409608
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Mac,18,Ubuntu Light Italic
+NameArray:0,Mac,4,Ubuntu Light Italic
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Ubuntu-LightItalic
+FamilyName:Ubuntu
+StyleName:Light Italic
+MenuName:Ubuntu Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Ubuntu Light Italic
+WritingScript:Roman
+WinName:Ubuntu Medium Italic
+FileLength:409608
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Mac,18,Ubuntu Light Italic
+NameArray:0,Mac,4,Ubuntu Light Italic
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:UbuntuMono-Regular
+FamilyName:Ubuntu Mono
+StyleName:Regular
+MenuName:Ubuntu Mono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Mono
+WritingScript:Roman
+WinName:Ubuntu Mono
+FileLength:205748
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Mac,18,Ubuntu Mono
+NameArray:0,Mac,4,Ubuntu Mono
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Win,16,Ubuntu Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:UbuntuMono-Bold
+FamilyName:Ubuntu Mono
+StyleName:Bold
+MenuName:Ubuntu Mono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Mono Bold
+WritingScript:Roman
+WinName:Ubuntu Mono Bold
+FileLength:191400
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Mac,18,Ubuntu Mono Bold
+NameArray:0,Mac,4,Ubuntu Mono Bold
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Win,16,Ubuntu Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:UbuntuMono-Italic
+FamilyName:Ubuntu Mono
+StyleName:Italic
+MenuName:Ubuntu Mono
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Ubuntu Mono Italic
+WritingScript:Roman
+WinName:Ubuntu Mono Italic
+FileLength:210216
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Mac,18,Ubuntu Mono Italic
+NameArray:0,Mac,4,Ubuntu Mono Italic
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Win,16,Ubuntu Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:UbuntuMono-BoldItalic
+FamilyName:Ubuntu Mono
+StyleName:Bold Italic
+MenuName:Ubuntu Mono
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Ubuntu Mono Bold Italic
+WritingScript:Roman
+WinName:Ubuntu Mono Bold Italic
+FileLength:216208
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Mac,18,Ubuntu Mono Bold Italic
+NameArray:0,Mac,4,Ubuntu Mono Bold Italic
+NameArray:0,Win,1,Ubuntu Mono
+NameArray:0,Win,16,Ubuntu Mono
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Umpush-Light
+FamilyName:Umpush
+StyleName:Light
+MenuName:Umpush
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Umpush Light
+FamilyNameNative:Umpush
+StyleNameNative:Light
+FullNameNative:Umpush Light
+WritingScript:Thai
+WinName:Umpush Light
+FileLength:83496
+NameArray:21,Win,1,Umpush
+NameArray:0,Mac,4,Umpush Light
+NameArray:0,Win,1,Umpush
+NameArray:0,Win,16,Umpush
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Umpush-Light
+FamilyName:Umpush
+StyleName:Light
+MenuName:Umpush
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Umpush Light
+FamilyNameNative:Umpush
+StyleNameNative:Light
+FullNameNative:Umpush Light
+WritingScript:Thai
+WinName:Umpush
+FileLength:83496
+NameArray:21,Win,1,Umpush
+NameArray:0,Mac,4,Umpush Light
+NameArray:0,Win,1,Umpush
+NameArray:0,Win,16,Umpush
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Umpush-Bold
+FamilyName:Umpush
+StyleName:Bold
+MenuName:Umpush
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Umpush Bold
+FamilyNameNative:Umpush
+StyleNameNative:Bold
+FullNameNative:Umpush Bold
+WritingScript:Thai
+WinName:Umpush Bold
+FileLength:81912
+NameArray:21,Win,1,Umpush
+NameArray:0,Mac,4,Umpush Bold
+NameArray:0,Win,1,Umpush
+NameArray:0,Win,16,Umpush
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Umpush-LightOblique
+FamilyName:Umpush
+StyleName:Light Oblique
+MenuName:Umpush
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Umpush Light Oblique
+FamilyNameNative:Umpush
+StyleNameNative:Light Oblique
+FullNameNative:Umpush Light Oblique
+WritingScript:Thai
+WinName:Umpush Light Oblique
+FileLength:98820
+NameArray:21,Win,1,Umpush
+NameArray:0,Mac,4,Umpush Light Oblique
+NameArray:0,Win,1,Umpush
+NameArray:0,Win,16,Umpush
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Umpush-LightOblique
+FamilyName:Umpush
+StyleName:Light Oblique
+MenuName:Umpush
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Umpush Light Oblique
+FamilyNameNative:Umpush
+StyleNameNative:Light Oblique
+FullNameNative:Umpush Light Oblique
+WritingScript:Thai
+WinName:Umpush Oblique
+FileLength:98820
+NameArray:21,Win,1,Umpush
+NameArray:0,Mac,4,Umpush Light Oblique
+NameArray:0,Win,1,Umpush
+NameArray:0,Win,16,Umpush
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Umpush-BoldOblique
+FamilyName:Umpush
+StyleName:Bold Oblique
+MenuName:Umpush
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Umpush Bold Oblique
+FamilyNameNative:Umpush
+StyleNameNative:Bold Oblique
+FullNameNative:Umpush Bold Oblique
+WritingScript:Thai
+WinName:Umpush Bold Oblique
+FileLength:94568
+NameArray:21,Win,1,Umpush
+NameArray:0,Mac,4,Umpush Bold Oblique
+NameArray:0,Win,1,Umpush
+NameArray:0,Win,16,Umpush
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Waree
+FamilyName:Waree
+StyleName:Regular
+MenuName:Waree
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Waree
+FamilyNameNative:Waree
+StyleNameNative:Regular
+FullNameNative:Waree Regular
+WritingScript:Thai
+WinName:Waree
+FileLength:92824
+NameArray:21,Win,1,Waree
+NameArray:0,Mac,4,Waree
+NameArray:0,Win,1,Waree
+NameArray:0,Win,16,Waree
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Waree-Bold
+FamilyName:Waree
+StyleName:Bold
+MenuName:Waree
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Waree Bold
+FamilyNameNative:Waree
+StyleNameNative:Bold
+FullNameNative:Waree Bold
+WritingScript:Thai
+WinName:Waree Bold
+FileLength:91268
+NameArray:21,Win,1,Waree
+NameArray:0,Mac,4,Waree Bold
+NameArray:0,Win,1,Waree
+NameArray:0,Win,16,Waree
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Waree-Oblique
+FamilyName:Waree
+StyleName:Oblique
+MenuName:Waree
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Waree Oblique
+FamilyNameNative:Waree
+StyleNameNative:Oblique
+FullNameNative:Waree Oblique
+WritingScript:Thai
+WinName:Waree Oblique
+FileLength:105552
+NameArray:21,Win,1,Waree
+NameArray:0,Mac,4,Waree Oblique
+NameArray:0,Win,1,Waree
+NameArray:0,Win,16,Waree
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:Waree-BoldOblique
+FamilyName:Waree
+StyleName:Bold Oblique
+MenuName:Waree
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Waree Bold Oblique
+FamilyNameNative:Waree
+StyleNameNative:Bold Oblique
+FullNameNative:Waree Bold Oblique
+WritingScript:Thai
+WinName:Waree Bold Oblique
+FileLength:102256
+NameArray:21,Win,1,Waree
+NameArray:0,Mac,4,Waree Bold Oblique
+NameArray:0,Win,1,Waree
+NameArray:0,Win,16,Waree
+%EndFont
+
+%BeginFont
+Handler:WinTTHandler
+FontType:TrueType
+FontName:WineWingdings
+FamilyName:Wingdings
+StyleName:Regular
+MenuName:Wingdings
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Wingdings
+WritingScript:Roman
+WinName:Wingdings
+FileLength:6720
+NameArray:0,Win,1,Wingdings
+NameArray:0,Mac,4,Wingdings
+NameArray:0,Win,1,Wingdings
+NameArray:0,Win,1,Wingdings
+%EndFont
+

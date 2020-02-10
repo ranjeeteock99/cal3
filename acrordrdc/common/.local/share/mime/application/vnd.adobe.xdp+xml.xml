@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/vnd.adobe.xdp+xml">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <glob pattern="*.xdp"/>
+  <comment>Adobe Acrobat XML Data Package File</comment>
+</mime-type>

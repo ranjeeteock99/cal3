@@ -1,0 +1,43 @@
+2019/11/30-15:48:38.960 4240 Reusing MANIFEST /home/ranjeet/snap/postman/96/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2019/11/30-15:48:38.960 4240 Recovering log #374
+2019/11/30-15:48:38.982 4240 Reusing old log /home/ranjeet/snap/postman/96/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000374.log 
+2019/11/30-15:48:38.983 4240 Delete type=2 #367
+2019/11/30-15:48:38.983 4240 Delete type=2 #368
+2019/11/30-15:48:38.983 4240 Delete type=2 #366
+2019/11/30-15:48:38.983 4240 Delete type=2 #373
+2019/11/30-15:48:38.983 4240 Delete type=2 #370
+2019/11/30-15:48:38.983 4240 Delete type=2 #369
+2019/11/30-15:48:59.926 4243 Current memtable full; waiting...
+2019/11/30-15:48:59.926 4429 Level-0 table #383: started
+2019/11/30-15:48:59.939 4429 Level-0 table #383: 603614 bytes OK
+2019/11/30-15:48:59.941 4429 Delete type=0 #374
+2019/11/30-15:48:59.942 4429 Level-0 table #385: started
+2019/11/30-15:48:59.942 4429 Level-0 table #385: 0 bytes OK
+2019/11/30-15:48:59.944 4429 Delete type=0 #382
+2019/11/30-15:48:59.944 4429 Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
+2019/11/30-15:49:00.177 4429 Compacting 1@1 + 5@2 files
+2019/11/30-15:49:00.220 4429 Generated table #386@1: 474 keys, 2117984 bytes
+2019/11/30-15:49:00.265 4429 Generated table #387@1: 55 keys, 2179616 bytes
+2019/11/30-15:49:00.292 4429 Generated table #388@1: 1596 keys, 2125353 bytes
+2019/11/30-15:49:00.340 4429 Generated table #389@1: 13760 keys, 2173187 bytes
+2019/11/30-15:49:00.391 4429 Generated table #390@1: 17019 keys, 1215775 bytes
+2019/11/30-15:49:00.391 4429 Compacted 1@1 + 5@2 files => 9811915 bytes
+2019/11/30-15:49:00.392 4429 compacted to: files[ 0 0 5 0 0 0 0 ]
+2019/11/30-16:15:44.237 4429 Level-0 table #392: started
+2019/11/30-16:15:44.270 4429 Level-0 table #392: 1148042 bytes OK
+2019/11/30-16:15:44.271 4429 Delete type=2 #377
+2019/11/30-16:15:44.272 4429 Delete type=2 #376
+2019/11/30-16:15:44.272 4429 Delete type=2 #383
+2019/11/30-16:15:44.272 4429 Delete type=2 #378
+2019/11/30-16:15:44.272 4429 Delete type=2 #380
+2019/11/30-16:15:44.272 4429 Delete type=0 #384
+2019/11/30-16:15:44.273 4429 Delete type=2 #379
+2019/11/30-16:17:58.593 4429 Compacting 1@1 + 5@2 files
+2019/11/30-16:17:58.627 4429 Generated table #393@1: 474 keys, 2117988 bytes
+2019/11/30-16:17:58.666 4429 Generated table #394@1: 49 keys, 2170398 bytes
+2019/11/30-16:17:58.702 4429 Generated table #395@1: 769 keys, 2112006 bytes
+2019/11/30-16:17:58.751 4429 Generated table #396@1: 9574 keys, 2163351 bytes
+2019/11/30-16:17:58.818 4429 Generated table #397@1: 21144 keys, 2193512 bytes
+2019/11/30-16:17:58.824 4429 Generated table #398@1: 2418 keys, 168638 bytes
+2019/11/30-16:17:58.824 4429 Compacted 1@1 + 5@2 files => 10925893 bytes
+2019/11/30-16:17:58.825 4429 compacted to: files[ 0 0 6 0 0 0 0 ]

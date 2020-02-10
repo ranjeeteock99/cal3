@@ -1,0 +1,26 @@
+2019/12/03-11:12:02.753 5866 Reusing MANIFEST /home/ranjeet/snap/postman/96/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2019/12/03-11:12:02.753 5866 Recovering log #391
+2019/12/03-11:12:02.777 5866 Reusing old log /home/ranjeet/snap/postman/96/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000391.log 
+2019/12/03-11:12:02.777 5866 Delete type=2 #386
+2019/12/03-11:12:02.777 5866 Delete type=2 #388
+2019/12/03-11:12:02.777 5866 Delete type=2 #387
+2019/12/03-11:12:02.777 5866 Delete type=2 #389
+2019/12/03-11:12:02.777 5866 Delete type=2 #392
+2019/12/03-11:12:02.777 5866 Delete type=2 #390
+2019/12/03-11:12:17.812 5866 Current memtable full; waiting...
+2019/12/03-11:12:17.812 6051 Level-0 table #401: started
+2019/12/03-11:12:17.831 6051 Level-0 table #401: 1119559 bytes OK
+2019/12/03-11:12:17.832 6051 Delete type=0 #391
+2019/12/03-11:12:17.832 6051 Level-0 table #403: started
+2019/12/03-11:12:17.833 6051 Level-0 table #403: 0 bytes OK
+2019/12/03-11:12:17.834 6051 Delete type=0 #400
+2019/12/03-11:12:17.834 6051 Manual compaction at level-0 from '\x002\x00\x00\x00' @ 72057594037927935 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at (end)
+2019/12/03-11:12:17.840 6051 Compacting 1@1 + 6@2 files
+2019/12/03-11:12:17.880 6051 Generated table #404@1: 474 keys, 2107426 bytes
+2019/12/03-11:12:17.924 6051 Generated table #405@1: 56 keys, 2207684 bytes
+2019/12/03-11:12:17.962 6051 Generated table #406@1: 57 keys, 2127213 bytes
+2019/12/03-11:12:18.003 6051 Generated table #407@1: 7658 keys, 2158275 bytes
+2019/12/03-11:12:18.065 6051 Generated table #408@1: 23939 keys, 2202742 bytes
+2019/12/03-11:12:18.077 6051 Generated table #409@1: 3496 keys, 248320 bytes
+2019/12/03-11:12:18.077 6051 Compacted 1@1 + 6@2 files => 11051660 bytes
+2019/12/03-11:12:18.078 6051 compacted to: files[ 0 0 6 0 0 0 0 ]

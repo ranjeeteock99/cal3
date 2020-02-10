@@ -1,0 +1,1314 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\S-1-5-21-0-0-0-1000
+
+#arch=win32
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1573820604
+#time=1d59baf79c8dc3c
+@=""
+
+[Control Panel\\Accessibility\\Blind Access] 1573820600
+#time=1d59baf778bb5f2
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1573820600
+#time=1d59baf778ba468
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1573820600
+#time=1d59baf778bb9f8
+"On"="0"
+
+[Control Panel\\Colors] 1573820600
+#time=1d59baf77b8b822
+
+[Control Panel\\Desktop] 1573820600
+#time=1d59baf778bc038
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000001
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,00,80,10,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1573820600
+#time=1d59baf778bbc00
+"BorderWidth"="-15"
+"CaptionHeight"="-270"
+"CaptionWidth"="-270"
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuHeight"="-270"
+"MenuWidth"="-270"
+"PaddedBorderWidth"="0"
+"ScrollHeight"="-240"
+"ScrollWidth"="-240"
+"SmCaptionHeight"="-225"
+"SmCaptionWidth"="-225"
+
+[Control Panel\\International] 1573820568
+#time=1d59baf6486b3c6
+"iCalendarType"="1"
+"iCountry"="1"
+"iCurrDigits"="2"
+"iCurrency"="0"
+"iDate"="0"
+"iDigits"="2"
+"iFirstDayOfWeek"="6"
+"iFirstWeekOfYear"="0"
+"iLDate"="0"
+"iLZero"="1"
+"iMeasure"="1"
+"iNegCurr"="0"
+"iNegNumber"="1"
+"iPaperSize"="1"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"LC_CTYPE"="00000409"
+"LC_MEASUREMENT"="00000409"
+"LC_MONETARY"="00000409"
+"LC_NUMERIC"="00000409"
+"LC_PAPER"="00000409"
+"LC_TELEPHONE"="00000409"
+"LC_TIME"="00000409"
+"Locale"="00000409"
+"Numshape"="1"
+"s1159"="AM"
+"s2359"="PM"
+"sCountry"="United States"
+"sCurrency"="$"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="ENU"
+"sList"=","
+"sLongDate"="dddd, MMMM dd, yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="M/d/yyyy"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sYearMonth"="MMMM, yyyy"
+
+[Control Panel\\Keyboard] 1573820600
+#time=1d59baf778ba558
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1573820600
+#time=1d59baf778bbd04
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1573820600
+#time=1d59baf778b83de
+"Beep"="Yes"
+
+[Environment] 1573820602
+#time=1d59baf78f3612e
+"TEMP"="C:\\users\\ranjeet\\Temp"
+"TMP"="C:\\users\\ranjeet\\Temp"
+
+[Keyboard Layout\\Preload] 1573820600
+#time=1d59baf77b1e240
+"1"="00000409"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp] 1573820981
+#time=1d59bb05adc9538
+"sLocale"=hex:65,6e,2d,75,73,00
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cFavorites] 1573820981
+#time=1d59bb05adc8dfe
+"a0"="CommentApp"
+"a1"="FillSignApp"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cFeatured] 1573820981
+#time=1d59bb05adc91be
+"uVersion"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c0] 1573820981
+#time=1d59bb05adc9e20
+"aID"="CommentApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Add comments with highlights, sticky notes, and mark-up tools"
+"tLocation"="install"
+"tPath"="Comments.aapp"
+"tTitle"="Comment"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c1] 1573820981
+#time=1d59bb05adca730
+"aID"="FillSignApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Fill and sign documents and forms electronically"
+"tLocation"="install"
+"tPath"="FillSign.aapp"
+"tTitle"="Fill & Sign"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c10] 1573820981
+#time=1d59bb05adcff5a
+"aID"="ProtectPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000001
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Prevent others from copying, printing & editing the information in PDFs"
+"tLocation"="install"
+"tPath"="Protect_R_RHP.aapp"
+"tTitle"="Protect"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c11] 1573820981
+#time=1d59bb05add075c
+"aID"="OptimizePDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Reduce PDF file size, enable fast web view, control image and font options"
+"tLocation"="install"
+"tPath"="OptimizePDF_R_RHP.aapp"
+"tTitle"="Optimize PDF"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c12] 1573820981
+#time=1d59bb05add0f7c
+"aID"="ComparePDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Compare and highlight the differences between two files"
+"tLocation"="install"
+"tPath"="Compare_R_RHP.aapp"
+"tTitle"="Compare Files"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c13] 1573820981
+#time=1d59bb05add177e
+"aID"="ScanPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Turn scans or photos of paper documents into searchable PDFs with selectable text"
+"tLocation"="install"
+"tPath"="Scan_R_RHP.aapp"
+"tTitle"="Enhance Scans"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c14] 1573820981
+#time=1d59bb05add1f8a
+"aID"="EditPDFRdrExpApp"
+"bInAppUpsellEnabled"=dword:00000001
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Edit text and images in PDF files"
+"tLocation"="install"
+"tPath"="Edit_R_Exp_RHP.aapp"
+"tTitle"="Edit PDF"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c2] 1573820981
+#time=1d59bb05adcb00e
+"aID"="StampApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000001
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Add stamps such as 'approved' or 'draft'"
+"tLocation"="install"
+"tPath"="Stamp.aapp"
+"tTitle"="Stamp"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c3] 1573820981
+#time=1d59bb05adcb8f6
+"aID"="CertificatesApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000001
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Digitally sign or certify documents and validate authenticity"
+"tLocation"="install"
+"tPath"="Certificates_R.aapp"
+"tTitle"="Certificates"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c4] 1573820981
+#time=1d59bb05adcc508
+"aID"="MeasureApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000001
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Measure distance, area, and perimeter of objects"
+"tLocation"="install"
+"tPath"="Measure.aapp"
+"tTitle"="Measure"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c5] 1573820981
+#time=1d59bb05adcd26e
+"aID"="ToolsCenter"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"=""
+"tLocation"="install"
+"tPath"="AppCenter_R.aapp"
+"tTitle"="Tools"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c6] 1573820981
+#time=1d59bb05adcdaa2
+"aID"="AVHome"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"=""
+"tLocation"="install"
+"tPath"="Home.aapp"
+"tTitle"="Home"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c7] 1573820981
+#time=1d59bb05adce362
+"aID"="Viewer"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"=""
+"tLocation"="install"
+"tPath"="Viewer.aapp"
+"tTitle"="Viewer"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c8] 1573820981
+#time=1d59bb05adcee98
+"aID"="MoreToolRHP"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Access more tools and enhanced functionalities"
+"tLocation"="install"
+"tPath"="MoreTools.aapp"
+"tTitle"="More Tools"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AcroApp\\cRegistered\\c9] 1573820981
+#time=1d59bb05adcf74e
+"aID"="RedactPDFRdrApp"
+"bInAppUpsellEnabled"=dword:00000000
+"bInline"=dword:00000000
+"bShowLabels"=dword:00000000
+"iMajorVersion"=dword:00000001
+"iMinorVersion"=dword:00000000
+"tDescription"="Permanently delete sensitive text, graphics, or hidden data"
+"tLocation"="install"
+"tPath"="Redact_R_RHP.aapp"
+"tTitle"="Redact"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AdobeViewer] 1573820791
+#time=1d59bafe9a730da
+"EULA"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Annots] 1573820981
+#time=1d59bb05adaa598
+"bStampsPaletteInvisible"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Annots\\cAnnots\\cAnnot] 1573820981
+#time=1d59bb05adaa71e
+"tauthor"="ranjeet"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Annots\\cAnnots\\cFreeText_003aFreeTextCallout\\cstrokeColor] 1573820981
+#time=1d59bb05adaac3c
+"d1"="0.898041"
+"d2"="0.133331"
+"d3"="0.215683"
+"t0"="RGB"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Annots\\cAnnots\\cHighlight_003aHighlightNote\\cstrokeColor] 1573820981
+#time=1d59bb05adab3b2
+"d1"="1.000000"
+"d2"="0.819611"
+"d3"="0.000000"
+"t0"="RGB"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Annots\\cAnnots\\cLine_003aLineArrow\\cstrokeColor] 1573820981
+#time=1d59bb05adabda8
+"d1"="0.898041"
+"d2"="0.133331"
+"d3"="0.215683"
+"t0"="RGB"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVConnector\\cv1\\caccounts\\cdef] 1573820981
+#time=1d59bb05acf7376
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVConnector\\cv1\\cconnectors\\cen0us] 1573820981
+#time=1d59bb05acfa4b8
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVConnector\\cv1\\corder\\cen0us] 1573820981
+#time=1d59bb05acf77c2
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVConversionFromPDF\\cSettings] 1573820981
+#time=1d59bb05adc6be4
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVConversionToPDF\\cSettings] 1573820981
+#time=1d59bb05adc73dc
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVEntitlement] 1573820981
+#time=1d59bb05acfbe4e
+"bAppInitialized"=dword:00000001
+"iEntitlementLevel"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVGeneral] 1573820981
+#time=1d59bb05acff116
+"bisFirstLaunch"=dword:00000000
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVGeneral\\cDockables] 1573820981
+#time=1d59bb05acfd834
+"bExternalTabs"=dword:00000000
+"bInternalTabs"=dword:00000000
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVGeneral\\cRecentFolders\\c1] 1573820981
+#time=1d59bb05acfdde8
+"aFS"="DOS"
+"sDI"=hex:2f,5a,2f,68,6f,6d,65,2f,72,61,6e,6a,65,65,74,2f,00
+"tDisplayText"="ranjeet"
+"tDIText"="/Z/home/ranjeet/"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVGeneral\\cTaskPanes\\cBasicCommentPane] 1573820981
+#time=1d59bb05acfe194
+"bAllowMultipleExpandedPanels"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVGeneral\\cToolbars\\cAdvCommenting] 1573820981
+#time=1d59bb05acfe43c
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVGeneral\\cToolbars\\cBasicCommenting] 1573820981
+#time=1d59bb05acfe586
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVGeneral\\cToolbars\\cCommenting\\cStamp] 1573820981
+#time=1d59bb05acfe8c4
+"bInternalExpanded"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\AVTracker] 1573820981
+#time=1d59bb05adc7e68
+"bLoadOnStart"=dword:00000000
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Collab] 1573820981
+#time=1d59bb05ad76374
+"aServer"="NONE"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Collab\\cDocumentCenter] 1573820800
+#time=1d59bafef1394e6
+"bAlwaysUseServer"=dword:00000000
+"bAlwaysUseServerFD"=dword:00000000
+"bDefault"=dword:00000001
+"bDefaultFD"=dword:00000001
+"tDistMethod"="UPLOAD"
+"tUI"="Adobe online services (Recommended)"
+"tURL"="urn://ns.adobe.com/Collaboration/SharedReview/Acrobat.com"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Collab\\cDocumentCenter\\cSettings] 1573820800
+#time=1d59bafef139388
+"tcSetting"="https://api.share.acrobat.com"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Collab\\cEmailDistribution] 1573820800
+#time=1d59bafef13b476
+"bAlwaysUseServerFD"=dword:00000000
+"bDefaultFD"=dword:00000000
+"tDistMethod"="EMAIL"
+"tUI"="Manually collect responses in my email inbox"
+"tURL"="urn://ns.adobe.com/Collaboration/Forms/Email"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Collab\\cEmailDistribution\\cSettings] 1573820800
+#time=1d59bafef13b322
+"tcSetting"=""
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Collab\\cInitiationWizardFirstLaunch] 1573820800
+#time=1d59bafef144a58
+"bIsFirstLaunchER"=dword:00000001
+"bIsFirstLaunchFD"=dword:00000001
+"bIsFirstLaunchSF"=dword:00000001
+"bIsFirstLaunchSR"=dword:00000001
+"bIsFirstLaunchUF"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Collab\\cInternalServer] 1573820800
+#time=1d59bafef13eac2
+"bAlwaysUseServerFD"=dword:00000000
+"bDefaultFD"=dword:00000000
+"tDistMethod"="InternalServer"
+"tUI"="Automatically collect responses on my own internal server"
+"tURL"="urn://ns.adobe.com/Collaboration/Forms/InternalServer"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Collab\\cInternalServer\\cSettings] 1573820800
+#time=1d59bafef13e8ba
+"tcSetting"=""
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Collab\\cServerSettings] 1573820981
+#time=1d59bb05ad766ee
+"tCONFIG"=""
+"tDAVFDF"=""
+"tFSFDF"=""
+"tNONE"=""
+
+[Software\\Adobe\\Acrobat Reader\\DC\\ExitSection] 1573820981
+#time=1d59bb05adc39bc
+"bLastExitNormal"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\FlashDebug] 1573820981
+#time=1d59bb05ad00390
+"bAutomationEnabled"=dword:00000000
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Installer\\Migrated] 1573820785
+#time=1d59bafe5f2a8e8
+"{AC76BA86-7AD7-1033-7B44-AC0F074E4100}"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\IPM] 1573820981
+#time=1d59bb05ad00aca
+"bpairID"=dword:00000000
+"iTestPopulation"=dword:00000018
+"iTestSegment"=dword:00000018
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Language\\current] 1573820785
+#time=1d59bafe5f2e006
+@="acrord32.dll"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Language\\next] 1573820785
+#time=1d59bafe5f2dc00
+@="acrord32.dll"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Language\\UseMUI] 1573820785
+#time=1d59bafe5f2d2b4
+"bUseMUI"=dword:00000000
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Originals] 1573820981
+#time=1d59bb05ad028f2
+"bDisplayedSplash"=dword:00000001
+"sProofingSpace"=hex:55,2e,53,2e,20,57,65,62,20,43,6f,61,74,65,64,20,28,53,57,\
+  4f,50,29,20,76,32,00
+
+[Software\\Adobe\\Acrobat Reader\\DC\\SDI] 1573820981
+#time=1d59bb05ad032e8
+"bMaximizeNextDocument"=dword:00000000
+"bNullDocMaximized"=dword:00000000
+"iLastPortraitBottom"=dword:000002e2
+"iLastPortraitLeft"=dword:0000005f
+"iLastPortraitRight"=dword:00000453
+"iLastPortraitTop"=dword:00000036
+"iNullDocBottom"=dword:000002e2
+"iNullDocLeft"=dword:0000005f
+"iNullDocRight"=dword:00000453
+"iNullDocTop"=dword:00000036
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c290FA7E61053E8763C6055E6333A99EFB83ECACB\\cAdobe_OCSPRevChecker\\cAuthorizedResponder\\c0] 1573820801
+#time=1d59bafef432e68
+"bValue"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E310000\\cAdobe_ChainBuilder\\cAcceptablePolicyOIDs\\c0] 1573820801
+#time=1d59bafef4339e4
+"iEnd"=dword:00000001
+"iStart"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E310000\\cAdobe_ChainBuilder\\cAcceptablePolicyOIDs\\c0\\cValue] 1573820801
+#time=1d59bafef433b2e
+"s0"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,36,2e,31,00
+"s1"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,2e,31,00
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E310000\\cAdobe_ChainBuilder\\cAcceptablePolicyOIDs\\c1] 1573820801
+#time=1d59bafef433e9e
+"iEnd"=dword:00000002
+"iStart"=dword:00000002
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E310000\\cAdobe_ChainBuilder\\cAcceptablePolicyOIDs\\c1\\cValue] 1573820801
+#time=1d59bafef4349ac
+"s0"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,34,2e,31,00
+"s1"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,34,2e,32,00
+"s10"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,38,2e,32,00
+"s11"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,33,30,2e,32,00
+"s2"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,37,2e,32,00
+"s3"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,30,2e,31,00
+"s4"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,30,2e,32,00
+"s5"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,33,2e,32,00
+"s6"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,36,2e,32,00
+"s7"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,39,2e,32,00
+"s8"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,32,2e,32,00
+"s9"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,35,2e,32,00
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E310000\\cAdobe_OCSPRevChecker\\cAuthorizedResponder\\c0] 1573820801
+#time=1d59bafef4351f4
+"bValue"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E310000\\cAdobe_OCSPRevChecker\\cSendNonce\\c0] 1573820801
+#time=1d59bafef43569a
+"iValue"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E310000\\cAdobe_OCSPRevChecker\\cSignCertOID\\c0] 1573820801
+#time=1d59bafef435ac8
+"sValue"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,00
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E310000\\cAdobe_OCSPRevChecker\\cSignRequest\\c0] 1573820801
+#time=1d59bafef435f50
+"bValue"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E310000\\cAdobe_OCSPRevChecker\\cURLToConsult\\c0] 1573820801
+#time=1d59bafef4362a2
+"iValue"=dword:00000003
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E312E312E310000\\cAdobe_ChainBuilder\\cAcceptablePolicyOIDs\\c0] 1573820801
+#time=1d59bafef436c3e
+"iEnd"=dword:00000001
+"iStart"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E312E312E310000\\cAdobe_ChainBuilder\\cAcceptablePolicyOIDs\\c0\\cValue] 1573820801
+#time=1d59bafef436e64
+"s0"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,36,2e,31,00
+"s1"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,2e,31,00
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E312E312E310000\\cAdobe_ChainBuilder\\cAcceptablePolicyOIDs\\c1] 1573820801
+#time=1d59bafef437396
+"iEnd"=dword:00000002
+"iStart"=dword:00000002
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E312E312E310000\\cAdobe_ChainBuilder\\cAcceptablePolicyOIDs\\c1\\cValue] 1573820801
+#time=1d59bafef437f62
+"s0"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,34,2e,31,00
+"s1"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,34,2e,32,00
+"s10"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,38,2e,32,00
+"s11"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,33,30,2e,32,00
+"s2"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,37,2e,32,00
+"s3"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,30,2e,31,00
+"s4"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,30,2e,32,00
+"s5"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,33,2e,32,00
+"s6"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,36,2e,32,00
+"s7"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,31,39,2e,32,00
+"s8"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,32,2e,32,00
+"s9"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,2e,32,35,2e,32,00
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E312E312E310000\\cAdobe_OCSPRevChecker\\cAuthorizedResponder\\c0] 1573820801
+#time=1d59bafef4383c2
+"bValue"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E312E312E310000\\cAdobe_OCSPRevChecker\\cSendNonce\\c0] 1573820801
+#time=1d59bafef438692
+"iValue"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E312E312E310000\\cAdobe_OCSPRevChecker\\cSignCertOID\\c0] 1573820801
+#time=1d59bafef43896c
+"sValue"=hex:31,2e,32,2e,38,34,30,2e,31,31,34,30,32,31,2e,31,00
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E312E312E310000\\cAdobe_OCSPRevChecker\\cSignRequest\\c0] 1573820801
+#time=1d59bafef438c3c
+"bValue"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E322E3834302E3131343032312E312E312E310000\\cAdobe_OCSPRevChecker\\cURLToConsult\\c0] 1573820801
+#time=1d59bafef438f20
+"iValue"=dword:00000003
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E332E33362E382E312E310000\\cAdobe_ChainBuilder\\cAllowCAToIssueAC\\c0] 1573820801
+#time=1d59bafef439a7e
+"bValue"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E332E33362E382E312E310000\\cAdobe_ChainBuilder\\cCheckCABasicConstraints\\c0] 1573820801
+#time=1d59bafef439d44
+"bValue"=dword:00000000
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E332E33362E382E312E310000\\cAdobe_CRLRevChecker\\cRequireAKI\\c0] 1573820801
+#time=1d59bafef43968c
+"bValue"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E332E33362E382E312E310000\\cAdobe_OCSPRevChecker\\cAllowOCSPNoCheck\\c0] 1573820801
+#time=1d59bafef43a190
+"bValue"=dword:00000000
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E332E33362E382E312E310000\\cAdobe_OCSPRevChecker\\cRequireOCSPCertHash\\c0] 1573820801
+#time=1d59bafef43a456
+"bValue"=dword:00000000
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cASPKI\\cASPKI\\cCustomCertPrefs\\c312E332E33362E382E312E310000\\cAdobe_Validation\\cValidityModel\\c0] 1573820801
+#time=1d59bafef43a83e
+"iValue"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cHandlers] 1573820801
+#time=1d59bafef20d7d2
+"aPrivKey"="Adobe.PPKLite"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Security\\cPPKHandler] 1573820801
+#time=1d59bafef461ed4
+"bCustomPrefsCreated"=dword:00000001
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Selection] 1573820981
+#time=1d59bb05ad0386a
+"aDefaultSelect"="Select"
+
+[Software\\Adobe\\Acrobat Reader\\DC\\Toast] 1573820981
+#time=1d59bb05ad049e0
+"iClientToastNumber"=dword:00000019
+
+[Software\\Adobe\\Acrobat Reader\\DC\\UsageMeasurement] 1573820981
+#time=1d59bb05ad05160
+"bInstalledCleanupCheckDone"=dword:00000001
+"bThrottleApplied"=dword:00000001
+
+[Software\\Adobe\\Adobe Acrobat\\DC\\DiskCabs] 1573820981
+#time=1d59bb05ad838ee
+"bCollab_OfflineDocs"=dword:00000000
+"bCollab_Workflows"=dword:00000000
+"bForms_AdhocWorkflow"=dword:00000000
+"bForms_AdhocWorkflowBackup"=dword:00000000
+"bJSCache_GlobData"=dword:00000001
+"bJSCache_GlobSettings"=dword:00000001
+
+[Software\\Adobe\\Adobe Synchronizer\\DC\\Acrobat.com] 1573820786
+#time=1d59bafe64a0f8e
+
+[Software\\Adobe\\Adobe Synchronizer\\DC\\Acrobat.com.v2] 1573820786
+#time=1d59bafe64a1268
+
+[Software\\Adobe\\CommonFiles\\Usage\\AcrobatDC] 1573820721
+#time=1d59bafbfaa4fd8
+
+[Software\\Adobe\\CommonFiles\\Usage\\Reader 18_Acrobat18_Reader_18.11.20063] 1573820721
+#time=1d59bafbfaa68ec
+
+[Software\\Adobe\\CommonFiles\\Usage\\Reader DC] 1573820792
+#time=1d59bafe9bbfb82
+"Date"="2019-11-15T12:26:32Z"
+"OptIn"=dword:00000000
+
+[Software\\Microsoft\\Internet Explorer\\Main] 1573820604
+#time=1d59baf79bc014c
+"Search Page"="https://www.google.com"
+"Start Page"="https://www.winehq.org"
+
+[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl\\FEATURE_BROWSER_EMULATION] 1573820788
+#time=1d59bafe7e88d70
+"AcroRd32.exe"=dword:00002711
+
+[Software\\Microsoft\\Internet Explorer\\Settings] 1573820604
+#time=1d59baf79bc04f8
+"Text Color"="0,0,0"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1573820604
+#time=1d59baf79c8dd7c
+
+[Software\\Microsoft\\SystemCertificates\\ADDRESSBOOK\\Certificates] 1573820801
+#time=1d59bafef6c0540
+
+[Software\\Microsoft\\SystemCertificates\\ADDRESSBOOK\\CRLs] 1573820801
+#time=1d59bafef6c06d0
+
+[Software\\Microsoft\\SystemCertificates\\ADDRESSBOOK\\CTLs] 1573820801
+#time=1d59bafef6c0860
+
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1573820801
+#time=1d59bafef4ce30e
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1573820801
+#time=1d59bafef4ce6c4
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1573820801
+#time=1d59bafef4cea20
+
+[Software\\Microsoft\\SystemCertificates\\MY\\Certificates] 1573820801
+#time=1d59bafef46f8ae
+
+[Software\\Microsoft\\SystemCertificates\\MY\\CRLs] 1573820801
+#time=1d59bafef46fa66
+
+[Software\\Microsoft\\SystemCertificates\\MY\\CTLs] 1573820801
+#time=1d59bafef46fc3c
+
+[Software\\Microsoft\\SystemCertificates\\ROOT\\Certificates] 1573820801
+#time=1d59bafef481270
+
+[Software\\Microsoft\\SystemCertificates\\ROOT\\CRLs] 1573820801
+#time=1d59bafef4814c8
+
+[Software\\Microsoft\\SystemCertificates\\ROOT\\CTLs] 1573820801
+#time=1d59bafef4816d0
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1573820801
+#time=1d59bafef4d0e74
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1573820801
+#time=1d59bafef4d11a8
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1573820801
+#time=1d59bafef4d131a
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1573820798
+#time=1d59bafed5247b0
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ComDlg32\\LastVisitedMRU] 1573820802
+#time=1d59bafefc78406
+"a"=hex:41,00,63,00,72,00,6f,00,52,00,64,00,33,00,32,00,2e,00,65,00,78,00,65,\
+  00,00,00,5a,00,3a,00,5c,00,68,00,6f,00,6d,00,65,00,5c,00,72,00,61,00,6e,00,\
+  6a,00,65,00,65,00,74,00,00,00
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.acrobatsecuritysettings\\UserChoice] 1573820717
+#time=1d59bafbd9c07ae
+"Hash"="kcXvZrTDUcI="
+"Progid"="AcroExch.acrobatsecuritysettings"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.api\\UserChoice] 1573820718
+#time=1d59bafbdb85544
+"Hash"="vaPKUADM2i4="
+"Progid"="AcroExch.Plugin"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.fdf\\UserChoice] 1573820718
+#time=1d59bafbda17108
+"Hash"="BedhLbNPDmY="
+"Progid"="AcroExch.FDFDoc"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.pdf\\UserChoice] 1573820717
+#time=1d59bafbd9075d8
+"Hash"="jVCjvb0EOH8="
+"Progid"="AcroExch.Document.DC"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.pdfxml\\UserChoice] 1573820717
+#time=1d59bafbd96a106
+"Hash"="Mm7tceH8xVc="
+"Progid"="AcroExch.pdfxml"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.pdx\\UserChoice] 1573820718
+#time=1d59bafbdb29a1e
+"Hash"="7m4eA6hpDFY="
+"Progid"="AcroExch.AcrobatPDXFileType"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.secstore\\UserChoice] 1573820718
+#time=1d59bafbdbdcce0
+"Hash"="7Ssfokig8dA="
+"Progid"="AcroExch.SecStore"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.xdp\\UserChoice] 1573820718
+#time=1d59bafbdad4578
+"Hash"="oJH/X29TbjY="
+"Progid"="AcroExch.XDPDoc"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FileExts\\.xfdf\\UserChoice] 1573820718
+#time=1d59bafbda7e6d2
+"Hash"="Khlfar/zOyw="
+"Progid"="AcroExch.XFDFDoc"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1573820602
+#time=1d59baf78f1d25a
+"Administrative Tools"="C:\\users\\ranjeet\\Start Menu\\Programs\\Administrative Tools"
+"AppData"="C:\\users\\ranjeet\\Application Data"
+"Cache"="C:\\users\\ranjeet\\Local Settings\\Temporary Internet Files"
+"Cookies"="C:\\users\\ranjeet\\Cookies"
+"Desktop"="C:\\users\\ranjeet\\Desktop"
+"Favorites"="C:\\users\\ranjeet\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\ranjeet\\Local Settings\\History"
+"Local AppData"="C:\\users\\ranjeet\\Local Settings\\Application Data"
+"My Music"="C:\\users\\ranjeet\\My Music"
+"My Pictures"="C:\\users\\ranjeet\\My Pictures"
+"My Videos"="C:\\users\\ranjeet\\My Videos"
+"NetHood"="C:\\users\\ranjeet\\NetHood"
+"Personal"="C:\\users\\ranjeet\\My Documents"
+"PrintHood"="C:\\users\\ranjeet\\PrintHood"
+"Programs"="C:\\users\\ranjeet\\Start Menu\\Programs"
+"Recent"="C:\\users\\ranjeet\\Recent"
+"SendTo"="C:\\users\\ranjeet\\SendTo"
+"Start Menu"="C:\\users\\ranjeet\\Start Menu"
+"StartUp"="C:\\users\\ranjeet\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\ranjeet\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"="C:\\users\\ranjeet\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"="C:\\users\\ranjeet\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"="C:\\users\\ranjeet\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"="C:\\users\\ranjeet\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\ranjeet\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\ranjeet\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1573820602
+#time=1d59baf78f1ce40
+"Administrative Tools"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\Administrative Tools"
+"AppData"=str(2):"%USERPROFILE%\\Application Data"
+"Cache"=str(2):"%USERPROFILE%\\Local Settings\\Temporary Internet Files"
+"Cookies"=str(2):"%USERPROFILE%\\Cookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\Local Settings\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\Local Settings\\Application Data"
+"My Music"=str(2):"%USERPROFILE%\\My Music"
+"My Pictures"=str(2):"%USERPROFILE%\\My Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\My Videos"
+"NetHood"=str(2):"%USERPROFILE%\\NetHood"
+"Personal"=str(2):"%USERPROFILE%\\My Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\PrintHood"
+"Programs"=str(2):"%USERPROFILE%\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"=str(2):"%USERPROFILE%\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"=str(2):"%USERPROFILE%\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"=str(2):"%USERPROFILE%\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"=str(2):"%USERPROFILE%\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1573820800
+#time=1d59bafeecf9d5e
+"ProxyEnable"=dword:00000000
+"User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1573820603
+#time=1d59baf797eeb0e
+@=""
+"IntranetName"=dword:00000001
+"ProxyByPass"=dword:00000001
+"UNCAsIntranet"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1573820603
+#time=1d59baf797ee820
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1573820603
+#time=1d59baf797ee4ce
+@=""
+"@ivt"=dword:00000001
+"file"=dword:00000003
+"ftp"=dword:00000003
+"http"=dword:00000003
+"https"=dword:00000003
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1573820603
+#time=1d59baf797eeba4
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1573820603
+#time=1d59baf798219aa
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1573820603
+#time=1d59baf797f9d24
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000000
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00000000
+"Description"="Your computer"
+"DisplayName"="My Computer"
+"Flags"=dword:00000021
+"Icon"="explorer.exe#0100"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1573820603
+#time=1d59baf79807636
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000001
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000000
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00010500
+"Description"="This zone contains all Web sites that are on your organization's intranet."
+"DisplayName"="Local intranet"
+"Flags"=dword:000000db
+"Icon"="shell32.dll#0018"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010500
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1573820603
+#time=1d59baf79814750
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000001
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00030000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00010000
+"Description"="This zone contains Web sites that you trust not to damage your computer or data."
+"DisplayName"="Trusted sites"
+"Flags"=dword:00000047
+"Icon"="inetcpl.cpl#00004480"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1573820603
+#time=1d59baf79821608
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000003
+"1407"=dword:00000000
+"1601"=dword:00000001
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000001
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000003
+"1A05"=dword:00000001
+"1A06"=dword:00000000
+"1A10"=dword:00000001
+"1C00"=dword:00010000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00011000
+"Description"="This zone contains all Web sites you haven't placed in other zones"
+"DisplayName"="Internet"
+"Flags"=dword:00000001
+"Icon"="inetcpl.cpl#001313"
+"MinLevel"=dword:00011000
+"RecommendedLevel"=dword:00011000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1573820603
+#time=1d59baf7982f4f6
+@=""
+"1001"=dword:00000003
+"1004"=dword:00000003
+"1200"=dword:00000003
+"1201"=dword:00000003
+"1400"=dword:00000003
+"1402"=dword:00000003
+"1405"=dword:00000003
+"1406"=dword:00000003
+"1407"=dword:00000003
+"1601"=dword:00000001
+"1604"=dword:00000001
+"1605"=dword:00000000
+"1606"=dword:00000003
+"1607"=dword:00000003
+"1608"=dword:00000003
+"1609"=dword:00000001
+"1800"=dword:00000003
+"1802"=dword:00000001
+"1803"=dword:00000003
+"1804"=dword:00000003
+"1805"=dword:00000001
+"1A00"=dword:00010000
+"1A02"=dword:00000003
+"1A03"=dword:00000003
+"1A04"=dword:00000003
+"1A05"=dword:00000003
+"1A06"=dword:00000003
+"1A10"=dword:00000003
+"1C00"=dword:00000000
+"1E05"=dword:00010000
+"CurrentLevel"=dword:00012000
+"Description"="This zone contains Web sites that could potentially damage your computer or data."
+"DisplayName"="Restricted sites"
+"Flags"=dword:00000003
+"Icon"="inetcpl.cpl#00004481"
+"MinLevel"=dword:00012000
+"RecommendedLevel"=dword:00012000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1573820604
+#time=1d59baf79c6f4c6
+
+[Software\\Netscape\\Netscape Navigator\\Viewers] 1573820697
+#time=1d59bafb19566a8
+"TYPE1"="application/vnd.fdf"
+"TYPE2"="application/vnd.adobe.xfdf"
+"TYPE3"="application/vnd.rmf"
+"TYPE4"="application/vnd.adobe.xdp"
+
+[Software\\Wine\\Credential Manager] 1573820981
+#time=1d59bb05ad58482
+"EncryptionKey"=hex:6a,3d,27,42,b3,71,25,5d
+
+[Software\\Wine\\Debug] 1573820604
+#time=1d59baf79c77d88
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\DllOverrides] 1573820660
+#time=1d59baf9b0f1870
+"*mspatcha"="native,builtin"
+
+[Software\\Wine\\FileOpenAssociations\\.chm] 1573820718
+#time=1d59bafbde80cd0
+"AppName"="hh"
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-chm.desktop"
+"MimeType"="application/vnd.ms-htmlhelp"
+"OpenWithIcon"="A35F_hh.0"
+"ProgID"="chm.file"
+
+[Software\\Wine\\FileOpenAssociations\\.fdf] 1573820718
+#time=1d59bafbdf3cb38
+"AppName"="Adobe Acrobat Reader DC "
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-fdf.desktop"
+"MimeType"="application/vnd.fdf"
+"OpenWithIcon"="A172_AcroRd32.0"
+"ProgID"="AcroExch.FDFDoc"
+
+[Software\\Wine\\FileOpenAssociations\\.hlp] 1573820718
+#time=1d59bafbdfdaf4a
+"AppName"="winhlp32"
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-hlp.desktop"
+"MimeType"="application/winhlp"
+"OpenWithIcon"="4137_winhlp32.0"
+"ProgID"="hlpfile"
+
+[Software\\Wine\\FileOpenAssociations\\.ini] 1573820718
+#time=1d59bafbe0762e2
+"AppName"="notepad"
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-ini.desktop"
+"MimeType"="application/x-wine-extension-ini"
+"OpenWithIcon"="1E64_notepad.0"
+"ProgID"="inifile"
+
+[Software\\Wine\\FileOpenAssociations\\.msp] 1573820718
+#time=1d59bafbe183dc4
+"AppName"="Wine Installer"
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-msp.desktop"
+"MimeType"="application/x-wine-extension-msp"
+"OpenWithIcon"="2402_msiexec.0"
+"ProgID"="Msi.Patch"
+
+[Software\\Wine\\FileOpenAssociations\\.pdf] 1573820718
+#time=1d59bafbe1f841c
+"AppName"="Adobe Acrobat Reader DC "
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-pdf.desktop"
+"MimeType"="application/pdf"
+"OpenWithIcon"="A172_AcroRd32.0"
+"ProgID"="AcroExch.Document.DC"
+
+[Software\\Wine\\FileOpenAssociations\\.rtf] 1573820718
+#time=1d59bafbe3025b0
+"AppName"="wordpad"
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-rtf.desktop"
+"MimeType"="application/rtf"
+"OpenWithIcon"="97C1_wordpad.0"
+"ProgID"="rtffile"
+
+[Software\\Wine\\FileOpenAssociations\\.url] 1573820719
+#time=1d59bafbe38a83e
+"AppName"="rundll32"
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-url.desktop"
+"MimeType"="application/x-mswinurl"
+"OpenWithIcon"="1CD8_rundll32.0"
+"ProgID"="InternetShortcut"
+
+[Software\\Wine\\FileOpenAssociations\\.vbs] 1573820719
+#time=1d59bafbe396ca6
+"AppName"="A Wine application"
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-vbs.desktop"
+"MimeType"="application/x-wine-extension-vbs"
+"ProgID"="VBSFile"
+
+[Software\\Wine\\FileOpenAssociations\\.wri] 1573820719
+#time=1d59bafbe3ec5f2
+"AppName"="wordpad"
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-wri.desktop"
+"MimeType"="application/x-mswrite"
+"OpenWithIcon"="97C1_wordpad.0"
+"ProgID"="wrifile"
+
+[Software\\Wine\\FileOpenAssociations\\.xdp] 1573820719
+#time=1d59bafbe48a5c2
+"AppName"="Adobe Acrobat Reader DC "
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-xdp.desktop"
+"MimeType"="application/vnd.adobe.xdp+xml"
+"OpenWithIcon"="A172_AcroRd32.0"
+"ProgID"="AcroExch.XDPDoc"
+
+[Software\\Wine\\FileOpenAssociations\\.xfdf] 1573820719
+#time=1d59bafbe54b2a4
+"AppName"="Adobe Acrobat Reader DC "
+"DesktopFile"="/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine-extension-xfdf.desktop"
+"MimeType"="application/vnd.adobe.xfdf"
+"OpenWithIcon"="A172_AcroRd32.0"
+"ProgID"="AcroExch.XFDFDoc"
+
+[Software\\Wine\\Fonts] 1573820779
+#time=1d59bafe2557aee
+"Codepages"="1252,437"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1573820779
+#time=1d59bafe255ed8a
+"DejaVu Sans (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-runtime\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans.ttf"
+"DejaVu Sans Bold (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-runtime\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSans-Bold.ttf"
+"DejaVu Sans Mono (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-runtime\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSansMono.ttf"
+"DejaVu Sans Mono Bold (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-runtime\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSansMono-Bold.ttf"
+"DejaVu Serif (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-runtime\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSerif.ttf"
+"DejaVu Serif Bold (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-runtime\\usr\\share\\fonts\\truetype\\dejavu\\DejaVuSerif-Bold.ttf"
+"Marlett (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-platform\\wine-stable\\bin\\..\\share\\wine\\fonts\\marlett.ttf"
+"STIX-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix-word\\STIX-Bold.otf"
+"STIX-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix-word\\STIX-BoldItalic.otf"
+"STIX-Italic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix-word\\STIX-Italic.otf"
+"STIX-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix-word\\STIX-Regular.otf"
+"STIXGeneral-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXGeneral-Bold.otf"
+"STIXGeneral-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXGeneral-BoldItalic.otf"
+"STIXGeneral-Italic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXGeneral-Italic.otf"
+"STIXGeneral-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXGeneral-Regular.otf"
+"STIXIntegralsD-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXIntegralsD-Bold.otf"
+"STIXIntegralsD-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXIntegralsD-Regular.otf"
+"STIXIntegralsSm-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXIntegralsSm-Bold.otf"
+"STIXIntegralsSm-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXIntegralsSm-Regular.otf"
+"STIXIntegralsUp-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXIntegralsUp-Bold.otf"
+"STIXIntegralsUp-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXIntegralsUp-Regular.otf"
+"STIXIntegralsUpD-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXIntegralsUpD-Bold.otf"
+"STIXIntegralsUpD-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXIntegralsUpD-Regular.otf"
+"STIXIntegralsUpSm-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXIntegralsUpSm-Bold.otf"
+"STIXIntegralsUpSm-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXIntegralsUpSm-Regular.otf"
+"STIXMath-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix-word\\STIXMath-Regular.otf"
+"STIXNonUnicode-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXNonUnicode-Bold.otf"
+"STIXNonUnicode-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXNonUnicode-BoldItalic.otf"
+"STIXNonUnicode-Italic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXNonUnicode-Italic.otf"
+"STIXNonUnicode-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXNonUnicode-Regular.otf"
+"STIXSizeFiveSym-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXSizeFiveSym-Regular.otf"
+"STIXSizeFourSym-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXSizeFourSym-Bold.otf"
+"STIXSizeFourSym-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXSizeFourSym-Regular.otf"
+"STIXSizeOneSym-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXSizeOneSym-Bold.otf"
+"STIXSizeOneSym-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXSizeOneSym-Regular.otf"
+"STIXSizeThreeSym-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXSizeThreeSym-Bold.otf"
+"STIXSizeThreeSym-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXSizeThreeSym-Regular.otf"
+"STIXSizeTwoSym-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXSizeTwoSym-Bold.otf"
+"STIXSizeTwoSym-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXSizeTwoSym-Regular.otf"
+"STIXVariants-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXVariants-Bold.otf"
+"STIXVariants-Regular (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\stix\\STIXVariants-Regular.otf"
+"Symbol (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-platform\\wine-stable\\bin\\..\\share\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-platform\\wine-stable\\bin\\..\\share\\wine\\fonts\\tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-platform\\wine-stable\\bin\\..\\share\\wine\\fonts\\tahomabd.ttf"
+"Wingdings (TrueType)"="Z:\\snap\\acrordrdc\\6\\wine-platform\\wine-stable\\bin\\..\\share\\wine\\fonts\\wingding.ttf"
+
+[Software\\Wine\\MenuFiles] 1573820718
+#time=1d59bafbdcf672a
+"/home/ranjeet/snap/acrordrdc/common/.config/menus/applications-merged/wine-Programs-Acrobat Reader DC.menu"="/home/ranjeet/snap/acrordrdc/common/.wine/dosdevices/c:/users/ranjeet/Start Menu/Programs/Acrobat Reader DC.lnk"
+"/home/ranjeet/snap/acrordrdc/common/.local/share/applications/wine/Programs/Acrobat Reader DC.desktop"="/home/ranjeet/snap/acrordrdc/common/.wine/dosdevices/c:/users/ranjeet/Start Menu/Programs/Acrobat Reader DC.lnk"
